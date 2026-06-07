@@ -1,0 +1,495 @@
+
+/* ===== 基础样式 ===== */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    color: #333;
+}
+.container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+
+/* ===== 头部 ===== */
+.header {
+    background: rgba(255,255,255,0.95);
+    border-radius: 16px;
+    padding: 30px;
+    margin-bottom: 20px;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+    text-align: center;
+}
+.header h1 {
+    font-size: 2.2em;
+    color: #667eea;
+    margin-bottom: 10px;
+}
+.header .subtitle {
+    font-size: 1.1em;
+    color: #666;
+    margin-bottom: 15px;
+}
+.header .stats {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+.stat-item {
+    text-align: center;
+    padding: 10px 20px;
+    background: #f8f9fa;
+    border-radius: 10px;
+}
+.stat-item .number {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: #667eea;
+}
+.stat-item .label {
+    font-size: 0.9em;
+    color: #888;
+}
+
+/* ===== 进度条 ===== */
+.progress-section {
+    background: rgba(255,255,255,0.95);
+    border-radius: 16px;
+    padding: 20px 30px;
+    margin-bottom: 20px;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+}
+.progress-bar-container {
+    width: 100%;
+    height: 20px;
+    background: #e9ecef;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, #667eea, #764ba2);
+    border-radius: 10px;
+    transition: width 0.5s ease;
+    width: 0%;
+}
+.progress-text {
+    text-align: center;
+    margin-top: 8px;
+    color: #666;
+    font-size: 0.95em;
+}
+
+/* ===== 20天导航 ===== */
+.days-nav {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.day-btn {
+    background: rgba(255,255,255,0.9);
+    border: none;
+    border-radius: 12px;
+    padding: 12px 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: center;
+    font-size: 0.85em;
+}
+.day-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+}
+.day-btn.active {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+}
+.day-btn.completed {
+    background: #d4edda;
+    color: #155724;
+}
+.day-btn .day-num {
+    font-size: 1.3em;
+    font-weight: bold;
+    display: block;
+}
+.day-btn .day-title {
+    font-size: 0.75em;
+    opacity: 0.8;
+    margin-top: 4px;
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* ===== 每日内容区 ===== */
+.day-content {
+    background: rgba(255,255,255,0.95);
+    border-radius: 16px;
+    padding: 30px;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+    display: none;
+}
+.day-content.active {
+    display: block;
+    animation: fadeIn 0.4s ease;
+}
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+.day-header {
+    border-bottom: 2px solid #e9ecef;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+.day-header h2 {
+    color: #667eea;
+    font-size: 1.6em;
+    margin-bottom: 5px;
+}
+.day-header .theme {
+    color: #888;
+    font-size: 1em;
+}
+.day-header .time {
+    color: #764ba2;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+/* ===== 任务卡片 ===== */
+.task-card {
+    background: #f8f9fa;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-left: 4px solid #667eea;
+    transition: all 0.3s ease;
+}
+.task-card:hover {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+}
+.task-card.video { border-left-color: #28a745; }
+.task-card.practice { border-left-color: #ffc107; }
+.task-card.mock { border-left-color: #dc3545; }
+.task-card.review { border-left-color: #17a2b8; }
+
+.task-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.task-title {
+    font-size: 1.15em;
+    font-weight: bold;
+    color: #333;
+    flex: 1;
+}
+.task-badge {
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.75em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.badge-video { background: #d4edda; color: #155724; }
+.badge-practice { background: #fff3cd; color: #856404; }
+.badge-mock { background: #f8d7da; color: #721c24; }
+.badge-review { background: #d1ecf1; color: #0c5460; }
+.badge-diagnostic { background: #e2e3e5; color: #383d41; }
+
+.task-desc {
+    color: #666;
+    margin-bottom: 12px;
+    line-height: 1.6;
+}
+.task-meta {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    margin-bottom: 12px;
+    font-size: 0.9em;
+    color: #888;
+}
+
+/* ===== 资源链接 ===== */
+.resources {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px dashed #dee2e6;
+}
+.resources-title {
+    font-size: 0.85em;
+    color: #888;
+    margin-bottom: 8px;
+}
+.resource-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+.resource-link {
+    display: inline-block;
+    padding: 6px 14px;
+    background: #e9ecef;
+    color: #667eea;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 0.85em;
+    transition: all 0.3s ease;
+}
+.resource-link:hover {
+    background: #667eea;
+    color: white;
+}
+
+/* ===== 练习区 ===== */
+.exercise-section {
+    margin-top: 15px;
+    padding: 15px;
+    background: white;
+    border-radius: 10px;
+    border: 1px solid #dee2e6;
+}
+.exercise-instructions {
+    background: #e7f3ff;
+    padding: 12px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    color: #004085;
+    font-size: 0.95em;
+    line-height: 1.6;
+}
+.exercise-question {
+    margin-bottom: 15px;
+    padding: 12px;
+    background: #f8f9fa;
+    border-radius: 8px;
+}
+.question-num {
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+    background: #667eea;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 28px;
+    font-size: 0.85em;
+    font-weight: bold;
+    margin-right: 8px;
+}
+.question-text {
+    font-size: 1em;
+    color: #333;
+    line-height: 1.6;
+}
+.answer-input {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #dee2e6;
+    border-radius: 8px;
+    margin-top: 8px;
+    font-size: 1em;
+    transition: border-color 0.3s ease;
+}
+.answer-input:focus {
+    outline: none;
+    border-color: #667eea;
+}
+
+/* ===== 答案区（默认隐藏） ===== */
+.answer-section {
+    margin-top: 15px;
+    display: none;
+}
+.answer-section.revealed {
+    display: block;
+    animation: fadeIn 0.4s ease;
+}
+.answer-box {
+    background: #d4edda;
+    padding: 12px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    color: #155724;
+}
+.answer-box .label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.explanation-box {
+    background: #fff3cd;
+    padding: 12px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    color: #856404;
+}
+.explanation-box .label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.tips-box {
+    background: #d1ecf1;
+    padding: 12px;
+    border-radius: 8px;
+    color: #0c5460;
+}
+.tips-box .label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+/* ===== 按钮 ===== */
+.btn {
+    display: inline-block;
+    padding: 10px 24px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    text-align: center;
+}
+.btn-primary {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+}
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(102,126,234,0.4);
+}
+.btn-success {
+    background: #28a745;
+    color: white;
+}
+.btn-success:hover {
+    background: #218838;
+}
+.btn-mark {
+    background: #6c757d;
+    color: white;
+    font-size: 0.85em;
+    padding: 6px 14px;
+}
+.btn-mark:hover {
+    background: #5a6268;
+}
+.btn-mark.completed {
+    background: #28a745;
+}
+
+/* ===== 口语回答区 ===== */
+.speaking-answer {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    line-height: 1.8;
+    color: #333;
+}
+
+/* ===== 资源库页面 ===== */
+.resources-page {
+    background: rgba(255,255,255,0.95);
+    border-radius: 16px;
+    padding: 30px;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+    display: none;
+}
+.resources-page.active {
+    display: block;
+}
+.resource-category {
+    margin-bottom: 25px;
+}
+.resource-category h3 {
+    color: #667eea;
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #e9ecef;
+}
+.resource-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.resource-table th,
+.resource-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+}
+.resource-table th {
+    background: #f8f9fa;
+    font-weight: bold;
+    color: #667eea;
+}
+.resource-table tr:hover {
+    background: #f8f9fa;
+}
+.resource-table a {
+    color: #667eea;
+    text-decoration: none;
+}
+.resource-table a:hover {
+    text-decoration: underline;
+}
+
+/* ===== 底部导航 ===== */
+.bottom-nav {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.nav-btn {
+    padding: 12px 30px;
+    background: rgba(255,255,255,0.9);
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: bold;
+    color: #667eea;
+    transition: all 0.3s ease;
+}
+.nav-btn:hover, .nav-btn.active {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+}
+
+/* ===== 响应式 ===== */
+@media (max-width: 768px) {
+    .header h1 { font-size: 1.6em; }
+    .days-nav { grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)); }
+    .day-btn { padding: 8px 4px; font-size: 0.75em; }
+    .task-header { flex-direction: column; }
+    .container { padding: 10px; }
+    .day-content { padding: 15px; }
+}
+
+/* ===== 滚动条美化 ===== */
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb {
+    background: #667eea;
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #764ba2;
+}

@@ -1,0 +1,3862 @@
+[
+  {
+    "day": 1,
+    "title": "基础诊断与听力Section 1入门",
+    "theme": "诊断弱项 + 听力生活场景基础",
+    "total_time": "4.5小时",
+    "tasks": [
+      {
+        "type": "practice",
+        "section": "diagnostic",
+        "title": "【诊断】雅思水平自测",
+        "description": "先了解自己的真实水平，明确后续重点。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思水平在线测试",
+            "url": "https://ielts.koolearn.com/20240528/863955.html"
+          }
+        ],
+        "has_answer": false,
+        "note": "完成测试后记录各项得分，重点关注听力和口语短板。"
+      },
+      {
+        "type": "video",
+        "section": "listening",
+        "title": "【视频】何琼听力技巧课 - Section 1基础",
+        "description": "学习听力Section 1的解题技巧：预读题目、抓关键词、数字/日期写法。",
+        "duration": "45分钟",
+        "resources": [
+          {
+            "name": "B站：何琼雅思听力网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          },
+          {
+            "name": "新东方雅思官网听力练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "listening",
+        "title": "【练习】听力Section 1 模拟题 - 租房场景",
+        "description": "完成以下听力Section 1模拟练习，重点练习信息填空。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网在线做题",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "请根据听到的内容填写以下信息（模拟剑雅Section 1风格）。做题前请先阅读题目，预测答案类型。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "Customer's first name: __________"
+            },
+            {
+              "num": 2,
+              "text": "Phone number: __________"
+            },
+            {
+              "num": 3,
+              "text": "Type of room preferred: __________"
+            },
+            {
+              "num": 4,
+              "text": "Maximum rent per month: £__________"
+            },
+            {
+              "num": 5,
+              "text": "Length of stay: __________ months"
+            },
+            {
+              "num": 6,
+              "text": "Preferred location: near __________"
+            },
+            {
+              "num": 7,
+              "text": "Need parking space: __________ (Yes/No)"
+            },
+            {
+              "num": 8,
+              "text": "Move-in date: __________"
+            },
+            {
+              "num": 9,
+              "text": "Occupation: __________"
+            },
+            {
+              "num": 10,
+              "text": "Special requirement: __________"
+            }
+          ],
+          "answers": [
+            "Sarah",
+            "07789 345 621",
+            "single room",
+            "450",
+            "6",
+            "the train station",
+            "Yes",
+            "1st August",
+            "nurse",
+            "quiet neighborhood"
+          ],
+          "explanations": [
+            "Section 1常见考点：人名拼写。注意录音中可能会逐个字母拼出名字，务必听清楚每个字母。",
+            "电话号码是Section 1高频考点。注意数字连读，如double three, triple five等表达。",
+            "房间类型常见表达：single room, double room, studio, shared apartment等。",
+            "金额考点注意货币符号和数字。录音中可能先说数字再说货币，或反之。",
+            "时间长度注意单复数。months/weeks/years都是常见考点。",
+            "地点类答案通常以near/next to/close to引出，注意介词搭配。",
+            "Yes/No类问题注意否定表达：not really, actually no等委婉说法。",
+            "日期写法注意英式格式：日-月-年。注意序数词：1st, 2nd, 3rd等。",
+            "职业类词汇需积累：nurse, engineer, accountant, consultant等。",
+            "特殊要求通常出现在对话末尾，注意but, however等转折词后的内容。"
+          ],
+          "tips": "Section 1是听力中最容易提分的部分。5分基础考生应确保Section 1正确率达到8/10以上。核心技巧：①提前读题预测词性 ②注意数字/日期/地址格式 ③第一遍确定答案，第二遍检查拼写"
+        }
+      },
+      {
+        "type": "video",
+        "section": "speaking",
+        "title": "【视频】杨帅口语 - Part 1回答技巧",
+        "description": "学习Part 1的回答结构：直接回答+扩展1-2句。避免过短或过长。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：杨帅雅思口语网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "speaking",
+        "title": "【练习】口语Part 1 高频话题 - Hometown",
+        "description": "请根据以下问题练习口语回答，建议录音后回听。",
+        "duration": "20分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP当季口语题库",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "请回答以下Part 1问题，每个问题回答2-3句话。完成后点击查看参考答案和评分要点。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "Where is your hometown?"
+            },
+            {
+              "num": 2,
+              "text": "What do you like most about your hometown?"
+            },
+            {
+              "num": 3,
+              "text": "Is your hometown a good place for young people?"
+            },
+            {
+              "num": 4,
+              "text": "Has your hometown changed much in recent years?"
+            },
+            {
+              "num": 5,
+              "text": "Would you like to live in your hometown in the future?"
+            }
+          ],
+          "answers": [
+            "My hometown is Chengdu, which is located in the southwest of China. It's the capital city of Sichuan Province and famous for its relaxed lifestyle.",
+            "What I like most is the food culture there. Chengdu is known as the city of gastronomy, and you can find amazing hot pot and street food everywhere.",
+            "Yes, I think so. There are many universities and job opportunities now. Also, the cost of living is relatively lower compared to Beijing or Shanghai.",
+            "Absolutely. In the past decade, it has developed rapidly. The subway system has expanded, and many tech companies have set up offices there.",
+            "To be honest, I'm not sure. While I love my hometown, I think I might prefer to live in a coastal city for better career prospects."
+          ],
+          "explanations": [
+            "评分要点：直接回答地点+补充细节（位置/特点）。使用which引导的定语从句增加语法复杂度。",
+            "评分要点：使用What I like most is...句型直接回应。加入具体例子（hot pot）使回答更生动。",
+            "评分要点：先给出明确观点（Yes），再用Also连接两个理由。注意使用compared to进行比较。",
+            "评分要点：用Absolutely加强语气。使用In the past decade明确时间范围，用现在完成时has developed/has expanded。",
+            "评分要点：使用To be honest表达真实想法，用While引导让步状语从句，展现语法多样性。"
+          ],
+          "tips": "Part 1回答黄金法则：①直接回答（1句）②扩展细节（1-2句）③总时长15-20秒。5分考生常见问题：回答太短（仅Yes/No）、语法错误多、词汇重复。目标：每个回答至少2句，使用1-2个连接词。"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "reading",
+        "title": "【练习】阅读判断题专项 - 基础篇",
+        "description": "判断题（TRUE/FALSE/NOT GIVEN）是阅读基础题型，掌握核心判断逻辑。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网阅读练习",
+            "url": "https://ieltscat.xdf.cn/"
+          },
+          {
+            "name": "刘洪波阅读网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "阅读以下段落，判断各句是TRUE、FALSE还是NOT GIVEN。",
+          "passage": "The honeybee, a vital pollinator for many crops, has been facing significant population declines in recent decades. Scientists have identified several factors contributing to this phenomenon, including pesticide use, habitat loss, and climate change. While some researchers argue that monoculture farming practices are the primary cause, others believe that a combination of stressors is responsible. In response to this crisis, the European Union has implemented strict regulations on neonicotinoid pesticides, which have been shown to harm bees. However, agricultural industry groups continue to debate the extent of the pesticide impact, suggesting that more research is needed before further restrictions are imposed.",
+          "questions": [
+            {
+              "num": 1,
+              "text": "Honeybees are important for the production of many crops."
+            },
+            {
+              "num": 2,
+              "text": "Climate change is the main reason for the decline in honeybee populations."
+            },
+            {
+              "num": 3,
+              "text": "All researchers agree that monoculture farming is the primary cause of bee population decline."
+            },
+            {
+              "num": 4,
+              "text": "The European Union has banned all types of pesticides."
+            },
+            {
+              "num": 5,
+              "text": "Agricultural industry groups believe that neonicotinoid pesticides have no effect on bees."
+            }
+          ],
+          "answers": [
+            "TRUE",
+            "FALSE",
+            "FALSE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "explanations": [
+            "文中第一句明确提到'honeybee, a vital pollinator for many crops'，vital = important，因此为TRUE。",
+            "文中说climate change是several factors之一，但没有说是main reason。main reason与原文矛盾，因此为FALSE。",
+            "文中说'While some researchers argue... others believe...'，说明研究人员意见不一致，因此'all researchers agree'为FALSE。",
+            "文中说EU实施了strict regulations on neonicotinoid pesticides，不是banned all types of pesticides，范围扩大，因此为FALSE。",
+            "文中说农业团体认为需要更多研究，但没有说他们相信农药对蜜蜂没有影响。这是未提及的信息，因此为NOT GIVEN。"
+          ],
+          "tips": "判断题核心技巧：①TRUE = 原文同义表达 ②FALSE = 与原文矛盾 ③NOT GIVEN = 原文未提及。常见陷阱：绝对词（all/only/never）往往是FALSE信号；比较级（more than/better）若原文无比较则为NOT GIVEN。"
+        }
+      },
+      {
+        "type": "video",
+        "section": "writing",
+        "title": "【视频】Simon写作 - Task 1静态图入门",
+        "description": "学习小作文静态图（柱状图/饼图/表格）的基本结构和常用句型。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：Simon雅思写作网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          },
+          {
+            "name": "IELTS Simon官网",
+            "url": "https://www.ielts-simon.com/"
+          }
+        ],
+        "has_answer": false
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "title": "听力Section 2与阅读填空技巧",
+    "theme": "听力生活场景进阶 + 阅读信息定位",
+    "total_time": "4.5小时",
+    "tasks": [
+      {
+        "type": "video",
+        "section": "listening",
+        "title": "【视频】何琼听力 - Section 2地图题与配对题",
+        "description": "Section 2常见题型：地图题（方位词）、配对题（同义替换）、表格题。",
+        "duration": "40分钟",
+        "resources": [
+          {
+            "name": "B站：何琼雅思听力网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "listening",
+        "title": "【练习】听力Section 2 模拟题 - 活动介绍",
+        "description": "练习Section 2的信息匹配和表格填空。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网听力练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "根据听到的内容完成以下表格（模拟剑雅Section 2风格）。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "Event name: Summer __________ Festival"
+            },
+            {
+              "num": 2,
+              "text": "Date: __________ July"
+            },
+            {
+              "num": 3,
+              "text": "Location: __________ Park"
+            },
+            {
+              "num": 4,
+              "text": "Opening time: __________ a.m."
+            },
+            {
+              "num": 5,
+              "text": "Main activity: __________ competition"
+            },
+            {
+              "num": 6,
+              "text": "Entry fee: __________ per person"
+            },
+            {
+              "num": 7,
+              "text": "Contact: email at __________"
+            },
+            {
+              "num": 8,
+              "text": "Parking: available behind the __________"
+            },
+            {
+              "num": 9,
+              "text": "Children's area: face painting and __________"
+            },
+            {
+              "num": 10,
+              "text": "Weather contingency: event will move to the __________"
+            }
+          ],
+          "answers": [
+            "Music",
+            "15th",
+            "Riverside",
+            "10",
+            "singing",
+            "£5",
+            "info@summerfest.co.uk",
+            "main hall",
+            "storytelling",
+            "community center"
+          ],
+          "explanations": [
+            "活动名称通常由两个词组成，注意首字母大写。",
+            "日期注意序数词：15th, 16th, 17th等。",
+            "地点名称通常是专有名词，注意拼写。",
+            "时间注意am/pm区分。",
+            "活动类型：singing, dancing, cooking等。注意动名词形式。",
+            "费用注意货币符号。",
+            "邮箱地址注意@和.的读法：at和dot。",
+            "停车位置注意方位词：behind, next to, opposite等。",
+            "儿童活动常见词：face painting, storytelling, balloon art等。",
+            "备选地点注意contingency plan（应急方案）。"
+          ],
+          "tips": "Section 2是独白形式，信息密度比Section 1大。核心技巧：①提前读题，预测词性 ②注意信号词（first, next, finally, however）③地图题先标方位 ④配对题注意同义替换"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "speaking",
+        "title": "【练习】口语Part 1 - Work/Study话题",
+        "description": "练习高频话题Work或Study，注意时态正确使用。",
+        "duration": "20分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语题库",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "请回答以下Part 1问题，每个问题回答2-3句话。建议录音。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "Do you work or are you a student?"
+            },
+            {
+              "num": 2,
+              "text": "What do you like about your job/studies?"
+            },
+            {
+              "num": 3,
+              "text": "What do you find most difficult about your work/studies?"
+            },
+            {
+              "num": 4,
+              "text": "Do you prefer to work/study in the morning or afternoon?"
+            },
+            {
+              "num": 5,
+              "text": "What job would you like to do in the future?"
+            }
+          ],
+          "answers": [
+            "I'm currently a university student, majoring in Business Administration at Sichuan University. I'm in my third year now.",
+            "What I enjoy most is the group projects. They give me a chance to collaborate with different people and learn various perspectives.",
+            "The most challenging part is definitely the exams. There's a lot of pressure to memorize theories and apply them under time constraints.",
+            "I'm definitely a morning person. I feel more focused and productive in the early hours, so I prefer to study before noon.",
+            "In the future, I'd like to become a marketing manager in an international company. I'm really interested in brand strategy and consumer behavior."
+          ],
+          "explanations": [
+            "评分要点：直接回答身份+补充细节（专业/学校/年级）。使用现在进行时currently表明当前状态。",
+            "评分要点：使用What I enjoy most is...句型。用They give me a chance to...解释原因。",
+            "评分要点：用definitely加强语气。使用The most challenging part is...句型。",
+            "评分要点：使用I'm definitely a morning person地道表达。用I feel more focused and productive解释原因。",
+            "评分要点：使用In the future明确时间。用I'd like to表达愿望。补充具体兴趣领域展现词汇深度。"
+          ],
+          "tips": "Work/Study是Part 1必考话题。5分考生常见问题：①时态混乱 ②回答过于简单 ③词汇重复。目标：使用现在时描述当前状态，用would like to谈未来，每个回答包含1个具体例子。"
+        }
+      },
+      {
+        "type": "video",
+        "section": "reading",
+        "title": "【视频】刘洪波阅读 - 填空题定位技巧",
+        "description": "学习Summary/Note/Table/Flow-chart填空题的定位方法和语法预判。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：刘洪波雅思阅读网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "reading",
+        "title": "【练习】阅读填空题专项 - Summary",
+        "description": "练习Summary填空，注意词性预判和原文定位。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网阅读练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "阅读以下段落，完成Summary填空。每空不超过两个词。",
+          "passage": "The history of chocolate began in Mesoamerica, where the cacao tree is native. The Olmec civilization was the first to cultivate cacao around 1500 BC, using it primarily for religious ceremonies. Later, the Maya and Aztec cultures also valued cacao, preparing a bitter drink called 'xocolatl' which was believed to have medicinal properties. When Spanish explorers arrived in the 16th century, they brought cacao back to Europe, where sugar was added to create a more palatable beverage. By the 19th century, technological advances allowed for the production of solid chocolate, transforming it from an elite luxury into a mass-market product consumed worldwide today.",
+          "questions": [
+            {
+              "num": 1,
+              "text": "The cacao tree originally grew in the region known as __________."
+            },
+            {
+              "num": 2,
+              "text": "The first civilization to grow cacao was the __________, who used it mainly for religious purposes."
+            },
+            {
+              "num": 3,
+              "text": "The ancient drink 'xocolatl' was thought to have __________ qualities."
+            },
+            {
+              "num": 4,
+              "text": "Spanish explorers transported cacao to Europe in the __________ century."
+            },
+            {
+              "num": 5,
+              "text": "In Europe, __________ was added to make the drink taste better."
+            },
+            {
+              "num": 6,
+              "text": "The invention of __________ chocolate in the 1800s made it available to everyone."
+            }
+          ],
+          "answers": [
+            "Mesoamerica",
+            "Olmec",
+            "medicinal",
+            "16th",
+            "sugar",
+            "solid"
+          ],
+          "explanations": [
+            "定位词：cacao tree originally grew。原文第一句'where the cacao tree is native'，native = originally grew。",
+            "定位词：first civilization / religious purposes。原文'The Olmec civilization was the first to cultivate cacao... using it primarily for religious ceremonies'。",
+            "定位词：xocolatl / qualities。原文'believed to have medicinal properties'，qualities = properties。",
+            "定位词：Spanish explorers / century。原文'in the 16th century'。",
+            "定位词：Europe / added / taste better。原文'sugar was added to create a more palatable beverage'，palatable = taste better。",
+            "定位词：1800s / available to everyone。原文'production of solid chocolate, transforming it from an elite luxury into a mass-market product'。"
+          ],
+          "tips": "填空题核心技巧：①读Summary预判词性 ②根据专有名词/数字快速定位原文 ③注意同义替换 ④检查语法 ⑤答案通常按原文顺序出现"
+        }
+      },
+      {
+        "type": "video",
+        "section": "writing",
+        "title": "【视频】顾家北写作 - Task 2观点类作文结构",
+        "description": "学习大作文四段式结构：Introduction + Body 1 + Body 2 + Conclusion。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：顾家北雅思写作网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "title": "听力Section 3学术对话与阅读选择题",
+    "theme": "听力学术场景 + 阅读细节理解",
+    "total_time": "4.5小时",
+    "tasks": [
+      {
+        "type": "video",
+        "section": "listening",
+        "title": "【视频】何琼听力 - Section 3学术讨论技巧",
+        "description": "学习Section 3的多人对话特点：观点区分、态度判断、作业/论文相关词汇。",
+        "duration": "40分钟",
+        "resources": [
+          {
+            "name": "B站：何琼雅思听力网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "listening",
+        "title": "【练习】听力Section 3 模拟题 - 作业讨论",
+        "description": "练习学术场景下的观点匹配和表格填空。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网听力练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "根据听到的学术讨论内容完成以下表格。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "Assignment topic: __________ management"
+            },
+            {
+              "num": 2,
+              "text": "Deadline: __________"
+            },
+            {
+              "num": 3,
+              "text": "Word count: __________ words"
+            },
+            {
+              "num": 4,
+              "text": "Required format: __________"
+            },
+            {
+              "num": 5,
+              "text": "First source: journal article on __________"
+            },
+            {
+              "num": 6,
+              "text": "Second source: book chapter about __________"
+            },
+            {
+              "num": 7,
+              "text": "Student's concern: lack of __________"
+            },
+            {
+              "num": 8,
+              "text": "Tutor's suggestion: visit the __________"
+            },
+            {
+              "num": 9,
+              "text": "Additional task: give a short __________"
+            },
+            {
+              "num": 10,
+              "text": "Feedback method: via __________"
+            }
+          ],
+          "answers": [
+            "time",
+            "next Friday",
+            "2500",
+            "essay",
+            "teamwork",
+            "leadership",
+            "data",
+            "library",
+            "presentation",
+            "email"
+          ],
+          "explanations": [
+            "学术场景常见话题：time management, stress management, project management等。",
+            "日期注意：next Friday, the end of this month, by Monday等表达。",
+            "字数要求：注意数字+words。常见：1500, 2000, 2500, 3000 words。",
+            "格式要求：essay, report, case study, literature review等。",
+            "学术资源类型：journal article, textbook, online database, lecture notes等。",
+            "注意同义替换：book chapter = chapter from a book。",
+            "学生困难常见表达：lack of data/time/resources, difficulty in...",
+            "建议常见地点：library, writing center, student support office等。",
+            "附加任务：presentation, group discussion, peer review等。",
+            "反馈方式：email, online system, face-to-face meeting等。"
+          ],
+          "tips": "Section 3是2-3人学术讨论，语速较快。核心技巧：①区分说话人身份（tutor/student）②注意观点态度词（agree/disagree/suggest）③学术词汇积累（assignment/dissertation/peer review）④注意转折词后的修正信息"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "speaking",
+        "title": "【练习】口语Part 1 - Accommodation话题",
+        "description": "练习住宿相关话题，注意描述性词汇。",
+        "duration": "20分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语题库",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "请回答以下Part 1问题，每个问题回答2-3句话。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "Do you live in a house or an apartment?"
+            },
+            {
+              "num": 2,
+              "text": "What do you like about your accommodation?"
+            },
+            {
+              "num": 3,
+              "text": "Is there anything you would like to change about your accommodation?"
+            },
+            {
+              "num": 4,
+              "text": "Do you plan to live there for a long time?"
+            },
+            {
+              "num": 5,
+              "text": "What kind of accommodation do people in your country usually prefer?"
+            }
+          ],
+          "answers": [
+            "I live in a two-bedroom apartment on the 15th floor of a high-rise building in the city center. It has a great view of the park across the street.",
+            "What I like most is the convenience. There are supermarkets, restaurants, and a subway station within walking distance, which makes my daily life very easy.",
+            "Well, I wish the apartment was a bit bigger. The kitchen is quite small, so it's difficult to cook elaborate meals or invite friends over for dinner.",
+            "Probably not. I think I'll move to a larger place in a couple of years, especially if I decide to get married and start a family.",
+            "In China, most young people prefer apartments in urban areas because of job opportunities and convenience. However, families with children often choose houses in the suburbs for more space and better air quality."
+          ],
+          "explanations": [
+            "评分要点：具体描述（two-bedroom, 15th floor, city center）+ 补充细节（great view）。",
+            "评分要点：使用What I like most is... + which引导的非限制性定语从句。",
+            "评分要点：使用I wish...虚拟语气表达愿望。用so连接因果关系。",
+            "评分要点：使用Probably not直接回应。用especially if引导条件状语从句。",
+            "评分要点：对比城乡差异（urban vs suburban），使用However转折。展现社会观察能力。"
+          ],
+          "tips": "Accommodation是Part 1高频话题。描述住所时使用具体细节（楼层/房间数/位置）。使用比较级和对比结构（urban vs suburban）增加语法多样性。"
+        }
+      },
+      {
+        "type": "video",
+        "section": "reading",
+        "title": "【视频】刘洪波阅读 - 选择题技巧",
+        "description": "学习单选和多选题的干扰项识别：绝对化、无中生有、偷换概念。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：刘洪波雅思阅读网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "reading",
+        "title": "【练习】阅读选择题专项",
+        "description": "练习细节题和主旨题的选择判断。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网阅读练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "阅读以下段落，选择正确答案。",
+          "passage": "Artificial intelligence (AI) is transforming healthcare in unprecedented ways. From diagnostic imaging to drug discovery, AI algorithms are demonstrating remarkable accuracy and efficiency. A recent study published in The Lancet showed that an AI system could detect breast cancer in mammograms with greater accuracy than human radiologists, reducing false positives by 5.7% and false negatives by 9.4%. However, the integration of AI into clinical practice faces significant challenges. Data privacy concerns, regulatory hurdles, and the need for extensive validation remain major obstacles. Furthermore, many healthcare professionals express skepticism about relying on machine recommendations, fearing that it might undermine their clinical judgment. Despite these concerns, proponents argue that AI will not replace doctors but rather augment their capabilities, allowing them to focus on complex cases while routine screening is handled by algorithms.",
+          "questions": [
+            {
+              "num": 1,
+              "text": "According to the passage, the AI system mentioned in The Lancet study could:",
+              "options": [
+                "A. Replace human radiologists completely",
+                "B. Detect breast cancer more accurately than human radiologists",
+                "C. Only reduce false positives in mammograms",
+                "D. Work without any regulatory approval"
+              ]
+            },
+            {
+              "num": 2,
+              "text": "What is NOT mentioned as a challenge for AI integration in healthcare?",
+              "options": [
+                "A. Data privacy issues",
+                "B. High implementation costs",
+                "C. Regulatory hurdles",
+                "D. Professional skepticism"
+              ]
+            },
+            {
+              "num": 3,
+              "text": "The passage suggests that proponents of AI in healthcare believe that:",
+              "options": [
+                "A. AI will eventually replace all doctors",
+                "B. Doctors should not use AI at all",
+                "C. AI can help doctors focus on more complex cases",
+                "D. Routine screening should be eliminated"
+              ]
+            },
+            {
+              "num": 4,
+              "text": "The tone of the passage can best be described as:",
+              "options": [
+                "A. Strongly opposed to AI in healthcare",
+                "B. Completely supportive of replacing doctors with AI",
+                "C. Objective and balanced",
+                "D. Highly skeptical about AI technology"
+              ]
+            }
+          ],
+          "answers": [
+            "B",
+            "B",
+            "C",
+            "C"
+          ],
+          "explanations": [
+            "原文明确说'AI system could detect breast cancer in mammograms with greater accuracy than human radiologists'，因此选B。A选项'replace completely'与原文矛盾；C选项'only reduce false positives'过于片面；D选项未提及。",
+            "原文提到的挑战包括：Data privacy concerns, regulatory hurdles, skepticism。High implementation costs（高实施成本）未提及，因此选B。",
+            "原文最后一句'proponents argue that AI will not replace doctors but rather augment their capabilities, allowing them to focus on complex cases'，因此选C。",
+            "文章既提到AI的优点（accuracy, efficiency），也提到挑战（privacy, regulation, skepticism），最后提到支持者的观点，整体是客观平衡的，因此选C。"
+          ],
+          "tips": "选择题核心技巧：①定位原文具体信息 ②排除绝对化选项（completely/only/all/never）③注意NOT EXCEPT题型 ④主旨题看首尾段 ⑤干扰项常见手法：偷换概念、扩大范围、无中生有"
+        }
+      },
+      {
+        "type": "video",
+        "section": "writing",
+        "title": "【视频】Simon写作 - Task 1动态图（线图/柱状图）",
+        "description": "学习描述趋势变化的词汇和句型：上升、下降、波动、稳定。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：Simon雅思写作网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          },
+          {
+            "name": "IELTS Simon官网",
+            "url": "https://www.ielts-simon.com/"
+          }
+        ],
+        "has_answer": false
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "title": "听力Section 4讲座与口语Part 2入门",
+    "theme": "听力学术讲座 + 口语长段表达",
+    "total_time": "4.5小时",
+    "tasks": [
+      {
+        "type": "video",
+        "section": "listening",
+        "title": "【视频】何琼听力 - Section 4学术讲座技巧",
+        "description": "学习Section 4的笔记方法：抓主题句、信号词、学术词汇。",
+        "duration": "40分钟",
+        "resources": [
+          {
+            "name": "B站：何琼雅思听力网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "listening",
+        "title": "【练习】听力Section 4 模拟题 - 生物讲座",
+        "description": "练习学术讲座的笔记填空。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网听力练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "根据听到的学术讲座内容完成以下笔记。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "Lecture topic: The __________ of marine ecosystems"
+            },
+            {
+              "num": 2,
+              "text": "Main threat: increase in __________ temperature"
+            },
+            {
+              "num": 3,
+              "text": "Affected species: __________ and coral reefs"
+            },
+            {
+              "num": 4,
+              "text": "Primary cause: __________ gas emissions"
+            },
+            {
+              "num": 5,
+              "text": "Consequence 1: loss of __________ diversity"
+            },
+            {
+              "num": 6,
+              "text": "Consequence 2: disruption of food __________"
+            },
+            {
+              "num": 7,
+              "text": "Solution 1: establish marine __________ areas"
+            },
+            {
+              "num": 8,
+              "text": "Solution 2: reduce plastic __________"
+            },
+            {
+              "num": 9,
+              "text": "Research method: underwater __________ surveys"
+            },
+            {
+              "num": 10,
+              "text": "Future focus: __________ restoration projects"
+            }
+          ],
+          "answers": [
+            "fragility",
+            "ocean",
+            "fish",
+            "greenhouse",
+            "biodiversity",
+            "chains",
+            "protected",
+            "pollution",
+            "camera",
+            "habitat"
+          ],
+          "explanations": [
+            "讲座主题常见结构：The + 名词 + of + 主题。fragility =脆弱性。",
+            "学术词汇：ocean temperature, sea level, water acidity等。",
+            "受影响物种：fish, marine mammals, seabirds, coral reefs等。",
+            "环境类核心词：greenhouse gas emissions, carbon footprint, fossil fuels等。",
+            "后果1：biodiversity diversity = 生物多样性。注意bio-前缀。",
+            "后果2：food chains = 食物链。ecosystem balance也是常见表达。",
+            "解决方案1：marine protected areas = 海洋保护区。",
+            "解决方案2：plastic pollution = 塑料污染。single-use plastics是细分话题。",
+            "研究方法：underwater camera surveys, satellite tracking, DNA analysis等。",
+            "未来方向：habitat restoration, species conservation, sustainable fishing等。"
+          ],
+          "tips": "Section 4是学术讲座，语速最快，词汇最难。核心技巧：①提前读题，预测主题（看标题）②抓信号词（First, Another point, In conclusion）③学术词汇前缀（bio-/geo-/eco-）④注意词性变化（diverse→diversity, protect→protected）⑤答案常为名词或名词短语"
+        }
+      },
+      {
+        "type": "video",
+        "section": "speaking",
+        "title": "【视频】Tara口语 - Part 2人物类话题",
+        "description": "学习Part 2的1分钟准备策略和2分钟回答结构：开头+描述+感受。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：Tara雅思口语网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "speaking",
+        "title": "【练习】口语Part 2 - Describe a person you admire",
+        "description": "练习人物类Part 2话题，注意使用描述性语言和具体例子。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语题库",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "请根据以下Cue Card准备1分钟，然后进行2分钟回答。建议录音。\n\nDescribe a person you admire.\nYou should say:\n- Who this person is\n- How you know this person\n- What this person does\n- And explain why you admire this person",
+          "questions": [
+            {
+              "num": 1,
+              "text": "完整Part 2回答示范"
+            }
+          ],
+          "answers": [
+            "The person I really admire is my aunt, who is a pediatric nurse at a children's hospital in my hometown. I've known her since I was born, as she is my mother's younger sister, so she's been part of my life for as long as I can remember.\n\nShe has been working as a nurse for over fifteen years, specifically in the pediatric department where she takes care of children with serious illnesses. Her job is incredibly demanding because she often works night shifts and has to deal with emotionally difficult situations when children don't respond well to treatment.\n\nThe reason I admire her so much is her extraordinary compassion and resilience. Despite the challenges, she always maintains a positive attitude and treats every child with genuine warmth and patience. I remember once visiting her at work and seeing how she comforted a scared little boy before his surgery. She sat with him for nearly an hour, telling him stories until he stopped crying.\n\nWhat inspires me most is that she chose this career not for money or status, but because she truly wants to make a difference in children's lives. She often says that seeing a child recover and smile is the greatest reward she could ever ask for. Her dedication has taught me that true fulfillment comes from helping others, and I hope I can be as selfless and caring as she is in my future career."
+          ],
+          "explanations": [
+            "评分要点分析：\n①流利度：使用连接词（so, because, despite, and, what inspires me most）使回答连贯。\n②词汇：使用高级词汇（pediatric, compassion, resilience, demanding, extraordinary, selfless）。\n③语法：混合使用简单句和复合句（who引导定语从句，because引导原因状语从句，despite+名词结构）。\n④内容：回答覆盖所有cue card要点，并加入具体例子（安慰小男孩的故事）。\n⑤发音提示：注意pediatric (/ˌpiːdiˈætrɪk/), resilience (/rɪˈzɪliəns/), compassion (/kəmˈpæʃn/)的发音。"
+          ],
+          "tips": "Part 2回答结构（2分钟）：\n①开头（15秒）：直接回答Who/What\n②主体（60秒）：描述细节（appearance/location/features）+ 具体故事\n③结尾（15秒）：解释感受/意义\n准备1分钟时：在纸上写5-6个关键词，不要写完整句子。人物类关键词：name/relationship/job/personality/story/why"
+        }
+      },
+      {
+        "type": "video",
+        "section": "reading",
+        "title": "【视频】刘洪波阅读 - Heading题技巧",
+        "description": "学习段落大意题的匹配方法：读首句+末句，找主题词，排除细节干扰。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：刘洪波雅思阅读网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "reading",
+        "title": "【练习】阅读Heading题专项",
+        "description": "练习段落大意匹配。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网阅读练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "为以下各段选择最合适的Heading。",
+          "passages": [
+            "A. The rapid urbanization of developing countries has created unprecedented challenges for public transportation systems. Cities like Mumbai, Lagos, and São Paulo have seen their populations double in just two decades, putting immense pressure on existing infrastructure. Bus networks that were designed for half a million passengers now struggle to accommodate two million daily commuters. This overcrowding leads to significant delays, safety concerns, and reduced service quality.",
+            "B. In response to these challenges, several innovative solutions have emerged. Bus Rapid Transit (BRT) systems, which combine the efficiency of metro lines with the flexibility of buses, have been successfully implemented in cities like Bogotá and Istanbul. These systems feature dedicated bus lanes, pre-boarding ticket machines, and level boarding platforms that reduce stop times from several minutes to just seconds. The results have been impressive: travel times have decreased by up to 40% in some corridors.",
+            "C. Despite these successes, critics argue that BRT systems are merely a temporary fix rather than a long-term solution. They point out that BRT lanes still compete with other vehicles at intersections and are vulnerable to traffic violations. Furthermore, the capacity of a BRT line, even with articulated buses, cannot match that of a metro or light rail system. Urban planners in rapidly growing cities must therefore consider BRT as part of a multi-modal strategy rather than a standalone answer."
+          ],
+          "headings": [
+            {
+              "id": "i",
+              "text": "The limitations of current bus networks"
+            },
+            {
+              "id": "ii",
+              "text": "A promising but imperfect solution"
+            },
+            {
+              "id": "iii",
+              "text": "Innovative approaches to urban mobility"
+            },
+            {
+              "id": "iv",
+              "text": "The environmental impact of public transport"
+            }
+          ],
+          "questions": [
+            {
+              "num": 1,
+              "text": "Paragraph A",
+              "match": true
+            },
+            {
+              "num": 2,
+              "text": "Paragraph B",
+              "match": true
+            },
+            {
+              "num": 3,
+              "text": "Paragraph C",
+              "match": true
+            }
+          ],
+          "answers": [
+            "i",
+            "iii",
+            "ii"
+          ],
+          "explanations": [
+            "Paragraph A主要讲发展中国家城市化导致公交系统面临挑战，现有基础设施不堪重负。核心词：challenges, pressure, overcrowding, existing infrastructure。对应Heading i：The limitations of current bus networks。",
+            "Paragraph B主要讲BRT系统作为创新解决方案的成功实施。核心词：innovative solutions, BRT systems, successfully implemented, impressive results。对应Heading iii：Innovative approaches to urban mobility。",
+            "Paragraph C主要讲BRT系统的局限性，批评者认为它只是临时方案。核心词：critics, temporary fix, limitations, cannot match。对应Heading ii：A promising but imperfect solution。"
+          ],
+          "tips": "Heading题核心技巧：①读段落首句+末句抓主旨 ②找段落中的主题词（重复出现的名词）③排除细节干扰（例子/数据/人名通常是细节）④注意同义替换（limitations = challenges, imperfect = temporary fix）⑤先做自己确定的，缩小范围后再做难的"
+        }
+      },
+      {
+        "type": "video",
+        "section": "writing",
+        "title": "【视频】Simon写作 - Task 2讨论类作文",
+        "description": "学习Discuss both views题型的平衡式结构。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：Simon雅思写作网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "title": "【模考1】第一次全真模拟考试",
+    "theme": "完整模考 + 错题分析",
+    "total_time": "5小时",
+    "tasks": [
+      {
+        "type": "mock",
+        "section": "listening",
+        "title": "【模考】听力完整测试（剑雅Test 1）",
+        "description": "完成一套完整听力测试（Section 1-4），严格计时30分钟。",
+        "duration": "40分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网模考",
+            "url": "https://ieltscat.xdf.cn/"
+          },
+          {
+            "name": "雅思哥APP模考",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "note": "模考后记录各Section正确率，重点分析错题原因。"
+      },
+      {
+        "type": "mock",
+        "section": "reading",
+        "title": "【模考】阅读完整测试（剑雅Test 1）",
+        "description": "完成一套完整阅读测试（3篇Passage），严格计时60分钟。",
+        "duration": "70分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网模考",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "note": "注意时间分配：Passage 1约15分钟，Passage 2约20分钟，Passage 3约25分钟。"
+      },
+      {
+        "type": "mock",
+        "section": "writing",
+        "title": "【模考】写作完整测试（Task 1 + Task 2）",
+        "description": "Task 1：20分钟，150词；Task 2：40分钟，250词。",
+        "duration": "70分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网写作题库",
+            "url": "https://ieltscat.xdf.cn/"
+          },
+          {
+            "name": "IELTS Simon写作范文",
+            "url": "https://www.ielts-simon.com/"
+          }
+        ],
+        "has_answer": false,
+        "note": "完成后对照范文，检查结构、词汇、语法。"
+      },
+      {
+        "type": "mock",
+        "section": "speaking",
+        "title": "【模考】口语完整模拟（Part 1+2+3）",
+        "description": "模拟完整口语考试，建议找朋友或对着镜子练习。",
+        "duration": "15分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语模考",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": false,
+        "note": "录音后回听，检查流利度、发音、语法错误。"
+      },
+      {
+        "type": "practice",
+        "section": "review",
+        "title": "【复盘】错题分析与弱项总结",
+        "description": "分析今日模考错题，找出薄弱题型和知识点。",
+        "duration": "45分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网答案解析",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": false,
+        "note": "建立错题本，记录：①错题类型 ②错误原因 ③正确思路 ④相关知识点"
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "title": "听力配对题与阅读匹配题突破",
+    "theme": "高难度题型专项突破",
+    "total_time": "4.5小时",
+    "tasks": [
+      {
+        "type": "video",
+        "section": "listening",
+        "title": "【视频】何琼听力 - 配对题与同义替换",
+        "description": "学习配对题的核心：同义替换识别、选项预判、排除法。",
+        "duration": "40分钟",
+        "resources": [
+          {
+            "name": "B站：何琼雅思听力网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "listening",
+        "title": "【练习】听力配对题专项 - 观点匹配",
+        "description": "练习将说话人与观点匹配。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网听力练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "根据听到的讨论，将每个人与其观点匹配。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "Speaker A believes that __________"
+            },
+            {
+              "num": 2,
+              "text": "Speaker B thinks the main problem is __________"
+            },
+            {
+              "num": 3,
+              "text": "Speaker C suggests that __________"
+            },
+            {
+              "num": 4,
+              "text": "Speaker D is concerned about __________"
+            },
+            {
+              "num": 5,
+              "text": "Speaker E recommends __________"
+            }
+          ],
+          "options": [
+            "increasing funding",
+            "changing the curriculum",
+            "hiring more staff",
+            "improving facilities",
+            "extending deadlines"
+          ],
+          "answers": [
+            "changing the curriculum",
+            "improving facilities",
+            "increasing funding",
+            "extending deadlines",
+            "hiring more staff"
+          ],
+          "explanations": [
+            "Speaker A: 'We need to completely revise what we teach' = changing the curriculum。",
+            "Speaker B: 'The classrooms and labs are outdated' = improving facilities。",
+            "Speaker C: 'If we had more money, we could...' = increasing funding。",
+            "Speaker D: 'Students don't have enough time to...' = extending deadlines。",
+            "Speaker E: 'We are severely understaffed' = hiring more staff。"
+          ],
+          "tips": "配对题核心技巧：①提前读选项，预测同义替换 ②注意说话人身份和态度 ③一个选项可能用不同方式表达（revise what we teach = changing curriculum）④注意否定和修正（I don't think... / Actually...）⑤快速记录关键词"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "speaking",
+        "title": "【练习】口语Part 2 - Describe a place you visited",
+        "description": "练习地点类Part 2话题。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语题库",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "Describe a place you have visited that impressed you.\nYou should say:\n- Where it is\n- When you went there\n- What you did there\n- And explain why it impressed you",
+          "questions": [
+            {
+              "num": 1,
+              "text": "完整Part 2回答示范"
+            }
+          ],
+          "answers": [
+            "A place that really left a deep impression on me is Kyoto, Japan, which I visited last spring during the cherry blossom season. I went there with two of my closest friends for about five days, and it was absolutely magical.\n\nDuring our trip, we explored numerous traditional temples and shrines, such as Kinkaku-ji, the famous golden pavilion, and Fushimi Inari with its thousands of red torii gates. We also wandered through the historic Gion district, where we were lucky enough to spot a real geisha. One of the most memorable experiences was participating in a traditional tea ceremony, where we learned about the precise movements and philosophy behind matcha preparation.\n\nWhat impressed me most was the perfect harmony between ancient traditions and modern life. You could see elderly people in kimonos walking past contemporary fashion boutiques, or ancient Zen gardens nestled beside high-tech office buildings. The city has managed to preserve its cultural heritage while embracing progress, which I find truly remarkable.\n\nMoreover, the attention to detail in everything—from the meticulously maintained gardens to the beautifully presented food—reflects a deep respect for aesthetics and craftsmanship. This experience made me reflect on how modern cities often sacrifice tradition for development, and I believe Kyoto offers an inspiring model of how both can coexist beautifully."
+          ],
+          "explanations": [
+            "评分要点分析：\n①流利度：使用时间状语（last spring, during, for about five days）使叙述清晰。\n②词汇：使用具体地名（Kinkaku-ji, Fushimi Inari, Gion, matcha）展现词汇深度。\n③语法：使用定语从句（which I visited, where we learned）、分词结构（wandering, nestled）。\n④内容：覆盖所有cue card要点，加入具体活动（tea ceremony, spot a geisha）。\n⑤结尾升华：从个人体验上升到文化思考（tradition vs progress）。"
+          ],
+          "tips": "地点类Part 2技巧：①使用感官描述（sight/sound/smell/taste）②加入具体地名和细节 ③描述活动而非仅描述外观 ④结尾表达个人感受或反思 ⑤准备关键词：location/time/activities/sensory details/personal meaning"
+        }
+      },
+      {
+        "type": "video",
+        "section": "reading",
+        "title": "【视频】刘洪波阅读 - 段落信息匹配题",
+        "description": "学习Which paragraph contains...题型的全文扫读技巧。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：刘洪波雅思阅读网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "reading",
+        "title": "【练习】阅读段落信息匹配专项",
+        "description": "练习信息定位匹配。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网阅读练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "根据以下段落，判断各信息出现在哪一段（A/B/C/D）。",
+          "passages": {
+            "A": "The Industrial Revolution, which began in Britain in the late 18th century, fundamentally transformed manufacturing processes. Steam power replaced human and animal labor, enabling factories to produce goods at unprecedented speeds. This mechanization led to mass production and significantly reduced the cost of consumer products.",
+            "B": "However, this rapid industrialization came at a severe environmental cost. Coal burning released massive amounts of sulfur dioxide and particulate matter into the atmosphere, creating toxic smog in industrial cities like Manchester and Birmingham. Rivers became polluted with industrial waste, destroying aquatic ecosystems and making water unsafe for human consumption.",
+            "C": "The social consequences were equally profound. Rural populations migrated to urban centers in search of factory work, leading to overcrowded cities with inadequate housing and sanitation. Working conditions in factories were notoriously dangerous, with long hours, low wages, and frequent accidents. Child labor became widespread, as factory owners preferred children for their small fingers and lower wage demands.",
+            "D": "Despite these hardships, the Industrial Revolution ultimately laid the foundation for modern economic growth. It created a new middle class of factory owners and merchants, stimulated technological innovation, and established the infrastructure for global trade. The productivity gains eventually led to rising living standards, though this improvement took several generations to materialize."
+          },
+          "questions": [
+            {
+              "num": 1,
+              "text": "a description of environmental damage caused by industrial activities"
+            },
+            {
+              "num": 2,
+              "text": "the long-term positive economic effects of industrialization"
+            },
+            {
+              "num": 3,
+              "text": "the replacement of traditional labor methods with new technology"
+            },
+            {
+              "num": 4,
+              "text": "the movement of people from countryside to cities"
+            },
+            {
+              "num": 5,
+              "text": "the impact of industrialization on water quality"
+            }
+          ],
+          "answers": [
+            "B",
+            "D",
+            "A",
+            "C",
+            "B"
+          ],
+          "explanations": [
+            "Paragraph B提到'coal burning released massive amounts of sulfur dioxide... creating toxic smog... Rivers became polluted'，对应environmental damage。",
+            "Paragraph D提到'laid the foundation for modern economic growth... rising living standards'，对应long-term positive economic effects。",
+            "Paragraph A提到'Steam power replaced human and animal labor... mechanization led to mass production'，对应replacement of traditional labor methods。",
+            "Paragraph C提到'Rural populations migrated to urban centers'，对应movement from countryside to cities。",
+            "Paragraph B提到'Rivers became polluted with industrial waste... making water unsafe'，对应impact on water quality。"
+          ],
+          "tips": "段落信息匹配题技巧：①先读题目，划出关键词（名词/专有名词）②快速扫读各段首句和末句 ③注意同义替换（damage = pollution, positive effects = rising living standards）④一个段落可能包含多个信息 ⑤先做有把握的，减少范围"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "writing",
+        "title": "【练习】写作Task 2 - 观点类作文",
+        "description": "练习Opinion Essay，学习明确表达立场。",
+        "duration": "50分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网写作题库",
+            "url": "https://ieltscat.xdf.cn/"
+          },
+          {
+            "name": "IELTS Simon写作范文",
+            "url": "https://www.ielts-simon.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "请根据以下题目写一篇250词以上的议论文。\n\nSome people think that the best way to reduce crime is to give longer prison sentences. Others believe there are better alternatives.\nDiscuss both views and give your opinion.",
+          "questions": [
+            {
+              "num": 1,
+              "text": "范文参考"
+            }
+          ],
+          "answers": [
+            "It is true that punishing criminals by sending them to prison serves as a deterrent and ensures public safety. However, I believe that addressing the root causes of crime and implementing rehabilitation programs are more effective long-term solutions.\n\nOn the one hand, longer prison sentences can discourage potential offenders from committing crimes. When the consequences are severe, individuals may think twice before breaking the law. Additionally, imprisoning dangerous criminals protects society from violent behavior and gives victims a sense of justice. For serious offenses such as murder or armed robbery, lengthy imprisonment is undoubtedly necessary.\n\nOn the other hand, simply extending prison terms does not address why people turn to crime in the first place. Many offenders come from disadvantaged backgrounds with limited education and employment opportunities. By investing in education, vocational training, and community support programs, governments can help individuals build legitimate careers rather than resorting to illegal activities. Furthermore, rehabilitation programs within prisons, such as counseling and skill development, can prepare inmates for successful reintegration into society.\n\nIn conclusion, while long prison sentences have a role in dealing with serious criminals, I believe that prevention and rehabilitation should be the primary focus. By tackling the underlying causes of crime and helping offenders transform their lives, society can achieve more sustainable reductions in criminal activity.\n\n(Word count: 268)"
+          ],
+          "explanations": [
+            "范文结构分析：\n①Introduction：背景句 + 明确立场（I believe that...）\n②Body 1：反方观点（longer sentences的好处）+ 具体例子（murder/armed robbery）\n③Body 2：正方观点（alternatives的好处）+ 具体建议（education/vocational training/rehabilitation）\n④Conclusion：重申立场 + 总结理由\n\n高分表达：\n- serves as a deterrent\n- addressing the root causes\n- disadvantaged backgrounds\n- vocational training\n- reintegration into society\n- tackling the underlying causes"
+          ],
+          "tips": "观点类作文（Opinion/Discuss both views）结构：\n①Introduction：改写题目 + 表明立场\n②Body 1：一方观点（可让步）\n③Body 2：另一方观点（你的立场）\n④Conclusion：总结 + 重申立场\n注意：必须明确表达个人观点，不能中立。使用连接词：On the one hand / On the other hand / In conclusion"
+        }
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "title": "听力地图题与阅读判断题强化",
+    "theme": "方位词专项 + 判断题提速",
+    "total_time": "4.5小时",
+    "tasks": [
+      {
+        "type": "video",
+        "section": "listening",
+        "title": "【视频】何琼听力 - 地图题方位词",
+        "description": "学习地图题核心方位词：between, opposite, adjacent to, in the vicinity of。",
+        "duration": "35分钟",
+        "resources": [
+          {
+            "name": "B站：何琼雅思听力网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "listening",
+        "title": "【练习】听力地图题专项",
+        "description": "练习地图标注题。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网听力练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "根据听到的描述，在地图上标注各建筑位置。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "Library: located __________ the main entrance"
+            },
+            {
+              "num": 2,
+              "text": "Cafeteria: situated __________ the science building"
+            },
+            {
+              "num": 3,
+              "text": "Student dormitory: found __________ the sports center"
+            },
+            {
+              "num": 4,
+              "text": "Parking lot: positioned __________ the main road"
+            },
+            {
+              "num": 5,
+              "text": "Administration office: placed __________ the library and the cafeteria"
+            }
+          ],
+          "answers": [
+            "opposite",
+            "next to",
+            "behind",
+            "alongside",
+            "between"
+          ],
+          "explanations": [
+            "opposite = 在...对面。注意与in front of区分。",
+            "next to = 紧邻。同义表达：adjacent to, adjoining, bordering。",
+            "behind = 在...后面。注意与in front of相对。",
+            "alongside = 沿着。常用于描述道路/河流旁的位置。",
+            "between A and B = 在A和B之间。注意顺序。"
+          ],
+          "tips": "地图题核心技巧：①提前标出方位（N/S/E/W）②熟悉常见建筑名称（library/cafeteria/dormitory/administration）③注意起点（You are here / Start from）④跟踪说话人移动路径 ⑤注意动态描述（go straight, turn left, walk past）"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "speaking",
+        "title": "【练习】口语Part 2 - Describe a memorable event",
+        "description": "练习事件类Part 2话题。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语题库",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "Describe a memorable event in your life.\nYou should say:\n- What the event was\n- When and where it happened\n- Who you were with\n- And explain why it was memorable",
+          "questions": [
+            {
+              "num": 1,
+              "text": "完整Part 2回答示范"
+            }
+          ],
+          "answers": [
+            "A truly memorable event in my life was my graduation ceremony from university, which took place two years ago in the grand auditorium of my campus. I was surrounded by my parents, my closest friends, and several professors who had guided me throughout my academic journey.\n\nThe ceremony itself was quite formal, with hundreds of graduates wearing black gowns and caps. When my name was called, I walked across the stage to receive my diploma, and I could see my parents waving enthusiastically from the audience. What made it even more special was that I was awarded distinction for my final year project, which meant I had to stay on stage a bit longer while the dean congratulated me personally.\n\nWhat made this event so memorable was the sense of achievement and closure it represented. For four years, I had worked incredibly hard, sacrificing weekends and holidays to complete assignments and prepare for exams. Standing on that stage, I realized that all those late nights and stressful moments had been worthwhile.\n\nMoreover, it was a moment of transition. I knew that after this ceremony, I would be entering the professional world, leaving behind the familiar comfort of student life. The mixture of pride, nostalgia, and excitement I felt that day is something I will cherish forever. It taught me that significant accomplishments require persistence, and that celebrating milestones with loved ones makes success even more meaningful."
+          ],
+          "explanations": [
+            "评分要点分析：\n①流利度：使用时间顺序（two years ago, when, for four years, after this ceremony）使叙述连贯。\n②词汇：使用正式词汇（ceremony, auditorium, distinction, dean, nostalgia）适合学术场景。\n③语法：使用定语从句（who had guided me, which took place）、分词结构（wearing, sacrificing）。\n④内容：覆盖所有cue card要点，加入具体细节（black gowns, distinction award）。\n⑤情感升华：从个人经历上升到人生感悟（persistence, celebrating milestones）。"
+          ],
+          "tips": "事件类Part 2技巧：①使用时间顺序组织回答（before/during/after）②描述场景细节（颜色/声音/人群）③表达真实情感（proud/nervous/excited）④解释为什么难忘（意义/教训/改变）⑤准备关键词：event/time/place/people/activities/emotions/why memorable"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "reading",
+        "title": "【练习】阅读判断题强化 - 进阶篇",
+        "description": "练习更复杂的判断题，注意隐含信息。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网阅读练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "阅读以下段落，判断各句是TRUE、FALSE还是NOT GIVEN。",
+          "passage": "The concept of telecommuting—working from home using digital technology—has existed since the 1970s, but it remained a niche practice until the COVID-19 pandemic forced a global experiment in remote work. A comprehensive study by Stanford University found that remote workers were 13% more productive than their office-based counterparts, primarily due to fewer interruptions and a quieter work environment. However, subsequent research has revealed significant downsides. Many employees report feelings of isolation and blurred boundaries between work and personal life. Companies have also struggled to maintain corporate culture and foster innovation when teams rarely meet in person. Surprisingly, some technology firms that initially embraced permanent remote work, such as Google and Apple, have since mandated hybrid schedules requiring employees to be in the office at least three days a week.",
+          "questions": [
+            {
+              "num": 1,
+              "text": "Telecommuting became widespread only after the COVID-19 pandemic."
+            },
+            {
+              "num": 2,
+              "text": "Stanford researchers found that remote workers completed more tasks because they worked longer hours."
+            },
+            {
+              "num": 3,
+              "text": "All technology companies have adopted permanent remote work policies."
+            },
+            {
+              "num": 4,
+              "text": "Some major tech companies now require employees to work in the office part of the week."
+            },
+            {
+              "num": 5,
+              "text": "Remote work has no negative effects on employees' mental health."
+            }
+          ],
+          "answers": [
+            "TRUE",
+            "FALSE",
+            "FALSE",
+            "TRUE",
+            "FALSE"
+          ],
+          "explanations": [
+            "原文说'remained a niche practice until the COVID-19 pandemic forced a global experiment'，niche = 小众的，global experiment = widespread，因此为TRUE。",
+            "原文说productive due to fewer interruptions and quieter environment，不是worked longer hours，因此为FALSE。",
+            "原文说some technology firms...have since mandated hybrid schedules，不是all companies adopted permanent remote work，因此为FALSE。",
+            "原文说Google and Apple...mandated hybrid schedules requiring employees to be in the office at least three days a week，对应require employees to work in the office part of the week，因此为TRUE。",
+            "原文说employees report feelings of isolation and blurred boundaries，对应negative effects on mental health，因此为FALSE。"
+          ],
+          "tips": "进阶判断题技巧：①注意隐含信息（isolation = negative mental health effects）②注意时间变化（initially embraced...have since mandated）③比较级和因果关系常是考点 ④绝对词（all/no/only）往往是FALSE信号"
+        }
+      },
+      {
+        "type": "video",
+        "section": "writing",
+        "title": "【视频】顾家北写作 - Task 1流程图与地图题",
+        "description": "学习流程图和地图题的特殊描述方法。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：顾家北雅思写作网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      }
+    ]
+  },
+  {
+    "day": 8,
+    "title": "听力数字专项与写作问题解决类",
+    "theme": "数字敏感度 + 问题解决作文",
+    "total_time": "4.5小时",
+    "tasks": [
+      {
+        "type": "video",
+        "section": "listening",
+        "title": "【视频】何琼听力 - 数字/日期/地址专项",
+        "description": "学习数字类信息的快速记录：分数、百分比、电话号码、邮政编码。",
+        "duration": "35分钟",
+        "resources": [
+          {
+            "name": "B站：何琼雅思听力网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "listening",
+        "title": "【练习】听力数字与日期专项",
+        "description": "练习快速记录数字信息。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网听力练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "根据听到的内容，记录以下数字信息。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "Date of birth: __________"
+            },
+            {
+              "num": 2,
+              "text": "Flight number: __________"
+            },
+            {
+              "num": 3,
+              "text": "Price per person: £__________"
+            },
+            {
+              "num": 4,
+              "text": "Discount rate: __________%"
+            },
+            {
+              "num": 5,
+              "text": "Postcode: __________"
+            },
+            {
+              "num": 6,
+              "text": "Room number: __________"
+            },
+            {
+              "num": 7,
+              "text": "Distance: __________ kilometers"
+            },
+            {
+              "num": 8,
+              "text": "Temperature: __________°C"
+            },
+            {
+              "num": 9,
+              "text": "Percentage of students: __________%"
+            },
+            {
+              "num": 10,
+              "text": "Reference number: __________"
+            }
+          ],
+          "answers": [
+            "12th March 1995",
+            "BA 2847",
+            "125",
+            "15",
+            "SW1A 1AA",
+            "402B",
+            "3.5",
+            "22",
+            "65",
+            "REF-2024-8891"
+          ],
+          "explanations": [
+            "日期注意序数词+月份+年份。英式：12th March 1995。美式：March 12, 1995。",
+            "航班号格式：两个字母+数字。注意字母读法（B-A, not Ba）。",
+            "金额注意货币符号。可能听到：one hundred and twenty-five。",
+            "百分比注意%符号。可能听到：fifteen percent 或 a fifteen percent discount。",
+            "邮编注意字母和数字混合。英式邮编常见格式。",
+            "房间号注意数字+字母。可能听到：four-oh-two-B 或 four-zero-two-B。",
+            "距离注意小数点。3.5 = three point five。",
+            "温度注意单位。可能听到：twenty-two degrees Celsius。",
+            "百分比可能以分数形式出现：two-thirds = 约66.7%。",
+            "参考号注意格式。可能包含字母、数字、连字符。"
+          ],
+          "tips": "数字类信息记录技巧：①提前预测数字类型（日期/金额/百分比）②熟悉数字读法（teen vs ty: 13 vs 30）③快速记录，不要纠结拼写 ④注意单位（km/miles, £/$, °C/°F）⑤百分比和分数互换（a quarter = 25%, three-quarters = 75%）"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "speaking",
+        "title": "【练习】口语Part 1 - Hobbies/Free time话题",
+        "description": "练习兴趣爱好话题。",
+        "duration": "20分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语题库",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "请回答以下Part 1问题。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "What do you like to do in your free time?"
+            },
+            {
+              "num": 2,
+              "text": "Do you prefer to spend your free time alone or with others?"
+            },
+            {
+              "num": 3,
+              "text": "Has your way of spending free time changed compared to when you were a child?"
+            },
+            {
+              "num": 4,
+              "text": "What hobby would you like to try in the future?"
+            }
+          ],
+          "answers": [
+            "In my free time, I enjoy a mix of activities. I usually go jogging in the park near my home, and I also like reading novels, especially science fiction and historical fiction.",
+            "It depends on my mood. Sometimes I need solitude to recharge, so I read or listen to music alone. But on weekends, I prefer meeting friends for dinner or going to the cinema together.",
+            "Definitely. As a child, I spent most of my free time playing outdoor games like hide-and-seek or riding bicycles. Now, I'm much more indoors-oriented, probably because of work fatigue and the convenience of streaming services.",
+            "I'd love to try pottery making. I've seen videos of people creating beautiful ceramic pieces, and it seems like a therapeutic way to express creativity while working with my hands."
+          ],
+          "explanations": [
+            "评分要点：列举具体活动（jogging, reading novels）+ 补充细节（genres）。",
+            "评分要点：使用It depends on...表达灵活态度。用Sometimes...But...对比不同情况。",
+            "评分要点：使用Definitely加强语气。对比过去（outdoor games）和现在（indoors-oriented）。用probably because解释原因。",
+            "评分要点：使用I'd love to表达愿望。用I've seen...引出兴趣来源。therapeutic和creativity是高分词汇。"
+          ],
+          "tips": "Hobbies话题技巧：①具体化（不说I like sports，说I go jogging in the park）②使用对比结构（alone vs with others, past vs present）③解释原因（because, since, as）④使用情感词汇（therapeutic, relaxing, fulfilling）"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "reading",
+        "title": "【练习】阅读Summary填空强化",
+        "description": "练习更复杂的Summary填空。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网阅读练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "阅读以下段落，完成Summary填空。每空不超过三个词。",
+          "passage": "Sleep deprivation has become a global epidemic, with the World Health Organization estimating that two-thirds of adults in developed nations fail to obtain the recommended eight hours of nightly sleep. Chronic sleep loss is now recognized as a significant risk factor for numerous health conditions, including obesity, cardiovascular disease, diabetes, and depression. The economic consequences are equally severe: a study by Rand Corporation calculated that insufficient sleep costs the United States economy up to $411 billion annually through reduced productivity and increased healthcare expenses. Despite these alarming statistics, modern work culture continues to glorify overwork and stigmatize rest. Technology has further eroded sleep boundaries, with smartphones and streaming services keeping people awake well past midnight. Neuroscientists emphasize that sleep is not merely a passive state but an active process during which the brain consolidates memories, clears toxins, and regulates emotional responses.",
+          "questions": [
+            {
+              "num": 1,
+              "text": "According to the WHO, a large proportion of adults in developed countries do not get the recommended amount of __________ each night."
+            },
+            {
+              "num": 2,
+              "text": "Long-term sleep deficiency is linked to serious health problems such as obesity and __________ disease."
+            },
+            {
+              "num": 3,
+              "text": "The Rand Corporation study showed that sleep deficiency costs the US economy billions of dollars due to lower __________ and higher medical costs."
+            },
+            {
+              "num": 4,
+              "text": "The writer suggests that contemporary work culture tends to celebrate __________ and criticize those who take time to rest."
+            },
+            {
+              "num": 5,
+              "text": "Scientists now understand that sleep is an active process that helps the brain to __________ memories and remove harmful substances."
+            }
+          ],
+          "answers": [
+            "sleep",
+            "cardiovascular",
+            "productivity",
+            "overwork",
+            "consolidate"
+          ],
+          "explanations": [
+            "定位词：WHO / recommended amount。原文'recommended eight hours of nightly sleep'，答案为sleep。",
+            "定位词：health problems / obesity。原文'including obesity, cardiovascular disease'，答案为cardiovascular。",
+            "定位词：Rand Corporation / costs / US economy。原文'reduced productivity and increased healthcare expenses'，答案为productivity。",
+            "定位词：work culture / celebrate / criticize rest。原文'glorify overwork and stigmatize rest'，glorify = celebrate, stigmatize = criticize，答案为overwork。",
+            "定位词：active process / brain / memories / remove harmful substances。原文'consolidates memories, clears toxins'，consolidate = 巩固，答案为consolidate。"
+          ],
+          "tips": "Summary填空进阶技巧：①注意词性转换（sleep loss → sleep deficiency, glorify → celebrate）②注意同义替换（stigmatize → criticize, toxins → harmful substances）③检查语法一致性（动词形式、单复数）④答案常为原文原词或同根词"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "writing",
+        "title": "【练习】写作Task 2 - 问题解决类",
+        "description": "练习Problem-Solution Essay结构。",
+        "duration": "50分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网写作题库",
+            "url": "https://ieltscat.xdf.cn/"
+          },
+          {
+            "name": "IELTS Simon写作范文",
+            "url": "https://www.ielts-simon.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "请根据以下题目写一篇250词以上的议论文。\n\nIn many cities, traffic congestion is a serious problem. What are the causes of this problem and what measures could be taken to solve it?",
+          "questions": [
+            {
+              "num": 1,
+              "text": "范文参考"
+            }
+          ],
+          "answers": [
+            "Traffic congestion has become a pressing issue in urban areas worldwide, causing significant economic losses and reducing residents' quality of life. This essay will examine the primary causes of this problem and propose effective solutions.\n\nThere are two main factors contributing to severe traffic jams in cities. Firstly, rapid urbanization has led to a dramatic increase in private car ownership. As people's incomes rise, more families can afford vehicles, resulting in roads that were designed for much lower volumes being overwhelmed. Secondly, inadequate public transportation infrastructure forces commuters to rely on personal vehicles. In many developing cities, bus and metro networks fail to cover suburban areas or operate at insufficient frequencies during peak hours.\n\nTo address these issues, governments should implement a multi-faceted approach. One effective measure would be to invest heavily in expanding and improving public transit systems. By adding metro lines, increasing bus frequencies, and creating dedicated bus lanes, cities can provide attractive alternatives to driving. Additionally, introducing congestion charges in city centers, as London and Singapore have successfully done, would discourage unnecessary car journeys during busy periods. Finally, promoting remote work policies and flexible working hours could spread commuter traffic more evenly throughout the day.\n\nIn conclusion, while traffic congestion stems from rising car ownership and inadequate public transport, coordinated efforts involving infrastructure investment, congestion pricing, and flexible work arrangements can significantly alleviate this problem.\n\n(Word count: 258)"
+          ],
+          "explanations": [
+            "范文结构分析：\n①Introduction：背景句 + 表明文章目的（examine causes and propose solutions）\n②Body 1（Causes）：两个原因，每个原因有解释和例子\n③Body 2（Solutions）：三个解决方案，使用连接词（One effective measure... Additionally... Finally...）\n④Conclusion：总结原因 + 总结方案\n\n高分表达：\n- pressing issue\n- dramatic increase\n- inadequate infrastructure\n- multi-faceted approach\n- congestion charges\n- alleviate this problem"
+          ],
+          "tips": "问题解决类作文（Problem-Solution）结构：\n①Introduction：背景 + 文章目的\n②Body 1：分析问题原因（2-3个）\n③Body 2：提出解决方案（2-3个，对应原因）\n④Conclusion：总结\n注意：解决方案要具体可行，不要泛泛而谈。使用连接词：One effective measure... Additionally... Finally..."
+        }
+      }
+    ]
+  },
+  {
+    "day": 9,
+    "title": "听力同义替换与口语Part 3逻辑训练",
+    "theme": "同义替换敏感度 + 深度讨论能力",
+    "total_time": "4.5小时",
+    "tasks": [
+      {
+        "type": "video",
+        "section": "listening",
+        "title": "【视频】何琼听力 - 同义替换全攻略",
+        "description": "学习听力中最核心的同义替换类型：形容词替换、动词替换、名词替换、否定替换。",
+        "duration": "40分钟",
+        "resources": [
+          {
+            "name": "B站：何琼雅思听力网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          },
+          {
+            "name": "雅思阅读538考点词",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "listening",
+        "title": "【练习】听力同义替换专项",
+        "description": "练习识别同义替换。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网听力练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "以下每组中，录音中的表达与题目中的表达是同义替换。请匹配。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "题目：expensive → 录音：__________"
+            },
+            {
+              "num": 2,
+              "text": "题目：difficult → 录音：__________"
+            },
+            {
+              "num": 3,
+              "text": "题目：start → 录音：__________"
+            },
+            {
+              "num": 4,
+              "text": "题目：big → 录音：__________"
+            },
+            {
+              "num": 5,
+              "text": "题目：not many → 录音：__________"
+            },
+            {
+              "num": 6,
+              "text": "题目：end → 录音：__________"
+            },
+            {
+              "num": 7,
+              "text": "题目：important → 录音：__________"
+            },
+            {
+              "num": 8,
+              "text": "题目：fast → 录音：__________"
+            },
+            {
+              "num": 9,
+              "text": "题目：dangerous → 录音：__________"
+            },
+            {
+              "num": 10,
+              "text": "题目：happy → 录音：__________"
+            }
+          ],
+          "answers": [
+            "costly",
+            "challenging",
+            "commence",
+            "substantial",
+            "a handful of",
+            "terminate",
+            "crucial",
+            "rapid",
+            "hazardous",
+            "delighted"
+          ],
+          "explanations": [
+            "expensive = costly = pricey = overpriced。注意否定替换：not cheap = expensive。",
+            "difficult = challenging = demanding = tough = arduous。",
+            "start = commence = begin = initiate = launch。",
+            "big = substantial = considerable = significant = extensive。",
+            "not many = a handful of = a limited number of = scarce = few。",
+            "end = terminate = conclude = finish = cease。",
+            "important = crucial = vital = essential = significant。",
+            "fast = rapid = swift = speedy = prompt。",
+            "dangerous = hazardous = risky = perilous = unsafe。",
+            "happy = delighted = pleased = content = thrilled。"
+          ],
+          "tips": "同义替换是雅思听力和阅读的核心考点。积累方法：①整理剑雅真题中的同义替换对 ②按词性分类记忆（形容词/动词/名词）③注意否定替换（not enough = insufficient, not happy = dissatisfied）④注意抽象与具体替换（vehicle = car/bus/truck）"
+        }
+      },
+      {
+        "type": "video",
+        "section": "speaking",
+        "title": "【视频】杨帅口语 - Part 3逻辑扩展",
+        "description": "学习Part 3的论证结构：观点+理由+例子+对比。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：杨帅雅思口语网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "speaking",
+        "title": "【练习】口语Part 3 - 教育话题",
+        "description": "练习Part 3深度讨论，注意逻辑和论证。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语题库",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "请回答以下Part 3问题，每个问题回答3-4句话，注意论证结构。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "What are the advantages of online learning compared to traditional classroom learning?"
+            },
+            {
+              "num": 2,
+              "text": "Do you think teachers will be replaced by technology in the future?"
+            },
+            {
+              "num": 3,
+              "text": "What skills should schools teach to prepare students for the future?"
+            },
+            {
+              "num": 4,
+              "text": "Why do some students dislike going to school?"
+            },
+            {
+              "num": 5,
+              "text": "How has education changed in your country over the past decade?"
+            }
+          ],
+          "answers": [
+            "I think online learning offers several distinct advantages. Firstly, it provides tremendous flexibility, allowing students to study at their own pace and schedule, which is particularly beneficial for working professionals. Secondly, it eliminates geographical barriers, giving learners access to courses from top universities worldwide without relocating. However, it does lack the face-to-face interaction and immediate feedback that traditional classrooms offer.",
+            "In my opinion, technology will complement rather than replace teachers. While AI can deliver standardized content efficiently and provide instant grading, teachers play irreplaceable roles in mentoring, inspiring creativity, and addressing students' emotional needs. The human connection in education is something that algorithms cannot replicate, at least not in the foreseeable future.",
+            "Schools should definitely prioritize critical thinking and digital literacy. In an era of information overload, students need to evaluate sources critically rather than accept everything at face value. Additionally, soft skills like communication, collaboration, and adaptability are becoming increasingly important as automation replaces routine technical tasks.",
+            "There are various reasons why some students develop a negative attitude toward school. For some, the rigid curriculum fails to accommodate different learning styles or interests, making classes feel irrelevant. Others may struggle with the competitive pressure and fear of failure, which can lead to anxiety and burnout. Furthermore, bullying or social exclusion can make the school environment emotionally distressing.",
+            "Education in my country has undergone significant transformation in recent years. There has been a noticeable shift from rote memorization toward more interactive and student-centered approaches. Technology integration has also accelerated, with most schools now using digital platforms for assignments and assessments. Moreover, vocational education is gaining more recognition as a viable alternative to academic pathways."
+          ],
+          "explanations": [
+            "评分要点：使用Firstly/Secondly/However组织观点。使用定语从句（which is particularly beneficial...）和分词结构（allowing students...）。",
+            "评分要点：使用complement rather than replace表达 nuanced 观点。使用While引导让步状语从句。使用at least not in the foreseeable future限定范围。",
+            "评分要点：使用definitely prioritize加强语气。使用In an era of...引入背景。使用rather than进行对比。",
+            "评分要点：使用There are various reasons引出多角度分析。使用For some/Others/Furthermore分层论述。使用定语从句（which can lead to...）。",
+            "评分要点：使用has undergone significant transformation描述变化。使用from...toward...结构。使用Moreover补充信息。"
+          ],
+          "tips": "Part 3回答技巧（3-4句话）：\n①直接回答（1句）\n②解释/理由（1-2句）\n③例子/对比/结论（1句）\n高分结构：观点 + 理由 + 例子 + 让步/对比\n连接词：Firstly/Secondly/However/Additionally/Moreover/While/In my opinion"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "reading",
+        "title": "【练习】阅读判断题综合",
+        "description": "综合练习判断题，混合TRUE/FALSE/NOT GIVEN。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网阅读练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "阅读以下段落，判断各句是TRUE、FALSE还是NOT GIVEN。",
+          "passage": "Vertical farming—the practice of growing crops in stacked layers within controlled indoor environments—is gaining traction as a sustainable alternative to traditional agriculture. Proponents claim that it uses 95% less water and requires significantly less land than conventional farming. Current vertical farms primarily grow leafy greens and herbs, as these crops have relatively short growth cycles and modest light requirements. However, critics point out that the energy consumption for artificial lighting and climate control remains substantial, particularly in regions where renewable energy is not readily available. The high initial investment costs also limit widespread adoption. Researchers at MIT are currently developing more efficient LED systems and solar integration methods to address these concerns. Several major cities, including Singapore and Dubai, have already incorporated vertical farms into their urban planning strategies.",
+          "questions": [
+            {
+              "num": 1,
+              "text": "Vertical farming uses less water than traditional farming methods."
+            },
+            {
+              "num": 2,
+              "text": "All types of crops can be grown efficiently in vertical farms at present."
+            },
+            {
+              "num": 3,
+              "text": "The energy costs of vertical farming are lower than those of conventional agriculture."
+            },
+            {
+              "num": 4,
+              "text": "Singapore has included vertical farming in its urban development plans."
+            },
+            {
+              "num": 5,
+              "text": "MIT researchers have completely solved the energy consumption problem in vertical farming."
+            }
+          ],
+          "answers": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN",
+            "TRUE",
+            "FALSE"
+          ],
+          "explanations": [
+            "原文说'uses 95% less water... than conventional farming'，因此为TRUE。",
+            "原文说'primarily grow leafy greens and herbs'，不是all types of crops，因此为FALSE。",
+            "原文提到energy consumption remains substantial，但没有与conventional agriculture的energy costs进行比较，因此为NOT GIVEN。",
+            "原文说'Singapore... have already incorporated vertical farms into their urban planning strategies'，因此为TRUE。",
+            "原文说MIT researchers are currently developing... to address these concerns，不是have completely solved，因此为FALSE。"
+          ],
+          "tips": "综合判断题注意：①数据类信息（95% less water）通常是TRUE ②绝对词（all/completely）往往是FALSE ③未比较的信息是NOT GIVEN ④注意时态（are developing vs have solved）"
+        }
+      },
+      {
+        "type": "video",
+        "section": "writing",
+        "title": "【视频】Simon写作 - Task 2双边讨论类进阶",
+        "description": "学习更复杂的双边讨论结构，加入个人立场。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：Simon雅思写作网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "title": "【模考2】第二次全真模拟考试",
+    "theme": "完整模考 + 弱项突破",
+    "total_time": "5小时",
+    "tasks": [
+      {
+        "type": "mock",
+        "section": "listening",
+        "title": "【模考】听力完整测试（剑雅Test 2）",
+        "description": "完成一套完整听力测试，严格计时30分钟。",
+        "duration": "40分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网模考",
+            "url": "https://ieltscat.xdf.cn/"
+          },
+          {
+            "name": "雅思哥APP模考",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "note": "对比Day 5模考，检查Section 1和Section 2正确率是否有提升。"
+      },
+      {
+        "type": "mock",
+        "section": "reading",
+        "title": "【模考】阅读完整测试（剑雅Test 2）",
+        "description": "完成一套完整阅读测试，严格计时60分钟。",
+        "duration": "70分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网模考",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "note": "重点检查判断题和填空题正确率。"
+      },
+      {
+        "type": "mock",
+        "section": "writing",
+        "title": "【模考】写作完整测试（Task 1 + Task 2）",
+        "description": "Task 1：20分钟；Task 2：40分钟。",
+        "duration": "70分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网写作题库",
+            "url": "https://ieltscat.xdf.cn/"
+          },
+          {
+            "name": "IELTS Simon写作范文",
+            "url": "https://www.ielts-simon.com/"
+          }
+        ],
+        "has_answer": false,
+        "note": "重点检查Task 2结构是否清晰，论点是否有例子支撑。"
+      },
+      {
+        "type": "mock",
+        "section": "speaking",
+        "title": "【模考】口语完整模拟（Part 1+2+3）",
+        "description": "模拟完整口语考试。",
+        "duration": "15分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语模考",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": false,
+        "note": "重点检查Part 3是否有论证结构（观点+理由+例子）。"
+      },
+      {
+        "type": "practice",
+        "section": "review",
+        "title": "【复盘】错题分析与弱项突破",
+        "description": "对比两次模考，分析进步和仍需加强的部分。",
+        "duration": "45分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网答案解析",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": false,
+        "note": "如果听力Section 3/4仍错很多，需要加强学术词汇。如果阅读Heading题错很多，需要加强段落大意理解。"
+      }
+    ]
+  },
+  {
+    "day": 11,
+    "title": "全科整套练习与写作动态图",
+    "theme": "整套训练 + 趋势描述",
+    "total_time": "4.5小时",
+    "tasks": [
+      {
+        "type": "video",
+        "section": "listening",
+        "title": "【视频】何琼听力 - 整套练习策略",
+        "description": "学习如何在30分钟内高效完成4个Section，时间分配和心态调整。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：何琼雅思听力网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "listening",
+        "title": "【练习】听力整套模拟 - 剑雅Test 3 Section 1-2",
+        "description": "完成Section 1和Section 2，限时15分钟。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网听力练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "完成以下听力Section 1-2模拟题，严格限时15分钟。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "（整套练习，答案见解析）"
+            }
+          ],
+          "answers": [
+            "整套练习答案请参考新东方官网解析"
+          ],
+          "explanations": [
+            "整套练习建议在新东方官网 https://ieltscat.xdf.cn/ 完成，系统会自动评分并提供详细解析。"
+          ],
+          "tips": "整套练习技巧：①Section 1-2争取全对或只错1个 ②Section 3注意观点匹配 ③Section 4注意学术词汇 ④检查拼写和单复数"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "reading",
+        "title": "【练习】阅读整套模拟 - 剑雅Test 3 Passage 1-2",
+        "description": "完成Passage 1和Passage 2，限时35分钟。",
+        "duration": "40分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网阅读练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "完成以下阅读Passage 1-2模拟题，严格限时35分钟。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "（整套练习，答案见解析）"
+            }
+          ],
+          "answers": [
+            "整套练习答案请参考新东方官网解析"
+          ],
+          "explanations": [
+            "整套练习建议在新东方官网 https://ieltscat.xdf.cn/ 完成，系统会自动评分并提供详细解析。"
+          ],
+          "tips": "阅读时间分配：Passage 1（15分钟）→ Passage 2（20分钟）→ Passage 3（25分钟）。先做简单题型（填空/判断），再做难题（Heading/匹配）。"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "speaking",
+        "title": "【练习】口语Part 2 - Describe an object you use every day",
+        "description": "练习物品类Part 2话题。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语题库",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "Describe an object you use every day.\nYou should say:\n- What it is\n- What you use it for\n- How long you have had it\n- And explain why it is important to you",
+          "questions": [
+            {
+              "num": 1,
+              "text": "完整Part 2回答示范"
+            }
+          ],
+          "answers": [
+            "The object I use every single day is my laptop, which I've had for about three years since I started university. It's a silver MacBook Air, quite lightweight and portable, which makes it perfect for carrying to classes and libraries.\n\nI use it for almost everything related to my studies and daily life. I take notes during lectures, write essays and reports, conduct research online, and create presentations for group projects. Beyond academics, I also use it to video chat with my family, watch movies, and manage my personal finances through banking apps.\n\nWhat makes it truly important to me is that it represents my independence and growth. When I first got it, I was just beginning my university journey, and this laptop has been with me through every assignment, every late-night study session, and every achievement. It holds all my work, memories, and even some personal journals I've written over the years.\n\nMoreover, in today's digital age, having a reliable laptop is essential for staying connected and productive. If I didn't have it, I honestly don't know how I would manage my academic workload or keep in touch with friends and family who live far away. It's not just a tool; it's become an extension of my daily routine and personal identity."
+          ],
+          "explanations": [
+            "评分要点分析：\n①流利度：使用since, when, over the years等时间表达使叙述连贯。\n②词汇：使用具体描述（silver MacBook Air, lightweight, portable）和学术词汇（conduct research, manage finances）。\n③语法：使用which引导定语从句，if引导条件状语从句，分词结构（having, carrying）。\n④内容：覆盖所有cue card要点，加入具体使用场景（notes, essays, video chat）。\n⑤情感升华：从物品上升到个人成长（independence, extension of identity）。"
+          ],
+          "tips": "物品类Part 2技巧：①具体描述外观和品牌 ②列举多种用途（学习/工作/娱乐）③解释情感价值（回忆/礼物/象征意义）④使用假设句（If I didn't have it...）增加语法多样性 ⑤准备关键词：object/appearance/functions/how long/importance"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "writing",
+        "title": "【练习】写作Task 1 - 动态图（线图）",
+        "description": "练习描述趋势变化的词汇和句型。",
+        "duration": "40分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网写作题库",
+            "url": "https://ieltscat.xdf.cn/"
+          },
+          {
+            "name": "IELTS Simon写作范文",
+            "url": "https://www.ielts-simon.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "请根据以下图表写一篇150词以上的报告。\n\nThe line graph shows the percentage of people aged 65 and over in three countries (Japan, Sweden, and the USA) from 1940 to 2040.\n\nSummarize the information by selecting and reporting the main features, and make comparisons where relevant.",
+          "questions": [
+            {
+              "num": 1,
+              "text": "范文参考"
+            }
+          ],
+          "answers": [
+            "The line graph compares the proportion of elderly people aged 65 and above in Japan, Sweden, and the United States over a 100-year period from 1940 to 2040.\n\nOverall, all three countries show an upward trend in their elderly populations, though the rates of increase and starting points vary significantly. Japan begins with the lowest percentage but is projected to experience the most dramatic growth, while the USA maintains a relatively steady increase throughout the period.\n\nIn 1940, the USA had the highest proportion of seniors at approximately 9%, followed by Sweden at about 7%, and Japan at only 5%. Over the next six decades, the American figure rose gradually to around 15% by 2000, while Sweden's percentage increased more steeply to roughly 15% by 1980 and then continued climbing to about 20% by 2010.\n\nJapan's elderly population remained relatively stable until the 1980s, after which it began to rise sharply. By 2040, it is predicted to reach nearly 27%, surpassing both Sweden (approximately 25%) and the USA (about 23%). This represents the most significant transformation among the three nations.\n\n(Word count: 178)"
+          ],
+          "explanations": [
+            "范文结构分析：\n①Introduction：改写题目（compares the proportion of elderly people... over a 100-year period）\n②Overview：总体趋势（upward trend）+ 主要差异（Japan lowest but most dramatic growth）\n③Body 1：1940起始数据 + 2000年前变化\n④Body 2：2000年后变化 + 2040预测\n\n高分表达：\n- upward trend\n- projected to experience\n- dramatic growth\n- relatively stable\n- surpassing both\n- represents the most significant transformation\n\n动态图核心句型：\n- rose gradually to...\n- increased more steeply to...\n- remained relatively stable until...\n- began to rise sharply\n- is predicted to reach"
+          ],
+          "tips": "Task 1动态图技巧：\n①结构：Introduction + Overview + 2 Body paragraphs\n②Overview必须包含：总体趋势 + 最大差异/最显著特征\n③分段原则：按时间分（前半段/后半段）或按特征分（最高/最低/变化最大）\n④词汇：上升（rise/increase/grow/climb/surge），下降（fall/decline/drop/decrease/plunge），稳定（remain stable/level off/stagnate）\n⑤语法：使用分词结构（reaching..., surpassing...）和从句（after which..., by which time...）"
+        }
+      },
+      {
+        "type": "video",
+        "section": "speaking",
+        "title": "【视频】Tara口语 - Part 2物品类与地点类",
+        "description": "学习物品类和地点类Part 2的共同结构。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "B站：Tara雅思口语网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      }
+    ]
+  },
+  {
+    "day": 12,
+    "title": "听力精听与阅读长难句突破",
+    "theme": "精听训练 + 句子结构分析",
+    "total_time": "4.5小时",
+    "tasks": [
+      {
+        "type": "video",
+        "section": "listening",
+        "title": "【视频】何琼听力 - 精听训练方法",
+        "description": "学习精听三步法：盲听抓大意→逐句听写→对照原文改错。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：何琼雅思听力网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "listening",
+        "title": "【练习】听力精听训练 - Section 3片段",
+        "description": "进行精听训练，提升对连读和弱读的敏感度。",
+        "duration": "40分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网听力精听",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "请按以下步骤进行精听训练：\n1. 第一遍：盲听，抓大意\n2. 第二遍：逐句暂停，写下听到的内容\n3. 第三遍：对照原文，标记听错的地方\n4. 第四遍：跟读模仿，注意语音语调",
+          "questions": [
+            {
+              "num": 1,
+              "text": "精听材料（建议使用剑雅Section 3学术讨论片段）"
+            }
+          ],
+          "answers": [
+            "精听训练无固定答案，重点在于过程"
+          ],
+          "explanations": [
+            "精听训练是听力提分的关键。5分基础考生通过2-3周精听，通常可以提升到6-6.5分。"
+          ],
+          "tips": "精听训练要点：①选择剑雅Section 3或Section 4材料 ②每天精听1-2个段落（约5分钟音频）③重点标记：连读（not at all → no-ta-tall）、弱读（and → /ən/）、同义替换 ④跟读时模仿语速和语调 ⑤坚持2周见效"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "speaking",
+        "title": "【练习】口语Part 2 - Describe a place you would like to visit",
+        "description": "练习地点类Part 2话题。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语题库",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "Describe a place you would like to visit in the future.\nYou should say:\n- Where it is\n- What you know about it\n- What you would like to do there\n- And explain why you would like to visit this place",
+          "questions": [
+            {
+              "num": 1,
+              "text": "完整Part 2回答示范"
+            }
+          ],
+          "answers": [
+            "A place I would absolutely love to visit in the future is Iceland, which is located in the North Atlantic Ocean, just below the Arctic Circle. I've seen countless documentaries and photographs of this stunning country, and I'm completely fascinated by its otherworldly landscapes.\n\nFrom what I know, Iceland is famous for its dramatic natural wonders, including massive glaciers, active volcanoes, geothermal hot springs, and spectacular waterfalls. It's also one of the best places in the world to witness the Northern Lights, which has been a lifelong dream of mine. The country has a very small population, which means much of the land remains untouched and pristine.\n\nIf I went there, I would definitely rent a car and drive along the Ring Road, which circles the entire island and passes through breathtaking scenery. I'd love to hike on a glacier, relax in the Blue Lagoon, and explore ice caves. I would also try to visit during winter to maximize my chances of seeing the aurora borealis.\n\nThe reason I want to visit Iceland so much is that it represents the raw power and beauty of nature in its purest form. As someone who lives in a bustling city, I crave the tranquility and vastness that Iceland offers. I believe standing beneath the Northern Lights or walking across a glacier would give me a profound sense of perspective and remind me how small we are in the grand scheme of things. It's not just a vacation destination for me; it's a pilgrimage to experience the extraordinary."
+          ],
+          "explanations": [
+            "评分要点分析：\n①流利度：使用which引导定语从句，if引导条件状语从句，使叙述流畅。\n②词汇：使用具体地名（Arctic Circle, Blue Lagoon, Ring Road, aurora borealis）和描述性词汇（otherworldly, pristine, breathtaking, profound）。\n③语法：使用would表示假设（If I went there, I would...），混合使用简单句和复合句。\n④内容：覆盖所有cue card要点，加入具体活动（hike on a glacier, relax in the Blue Lagoon）。\n⑤情感升华：从旅游愿望上升到人生感悟（pilgrimage, perspective, grand scheme of things）。"
+          ],
+          "tips": "地点类Part 2（未来想去）技巧：①使用would/should/could表达假设 ②描述具体地理特征和著名景点 ③列举想做的活动 ④解释深层动机（逃离城市/寻找自我/体验自然）⑤准备关键词：place/location/features/activities/why/when"
+        }
+      },
+      {
+        "type": "video",
+        "section": "reading",
+        "title": "【视频】刘洪波阅读 - 长难句分析",
+        "description": "学习拆分长难句：找主干（主谓宾）、识别从句、理解逻辑关系。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：刘洪波雅思阅读网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "reading",
+        "title": "【练习】阅读长难句分析",
+        "description": "练习拆分和理解复杂句子。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网阅读练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "分析以下长难句，找出主干和从句。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "Sentence 1: The theory, which was first proposed by Darwin in 1859 and has since been supported by extensive fossil evidence, suggests that all species evolved from common ancestors through a process called natural selection."
+            },
+            {
+              "num": 2,
+              "text": "Sentence 2: Although many researchers initially dismissed the findings as coincidental, subsequent studies, conducted over a period of fifteen years across multiple continents, have consistently replicated the original results, thereby confirming the validity of the hypothesis."
+            },
+            {
+              "num": 3,
+              "text": "Sentence 3: What concerns environmentalists most is not the immediate damage caused by the oil spill itself, but the long-term ecological consequences that may persist for decades, affecting marine biodiversity and coastal communities that depend on fishing for their livelihood."
+            }
+          ],
+          "answers": [
+            "主干：The theory suggests that all species evolved from common ancestors.\n从句1：which was first proposed by Darwin in 1859 and has since been supported by extensive fossil evidence（非限制性定语从句，修饰theory）\n从句2：that all species evolved from common ancestors（宾语从句，suggests的宾语）\n分词结构：called natural selection（过去分词，修饰process）",
+            "主干：subsequent studies have consistently replicated the original results.\n从句1：Although many researchers initially dismissed the findings as coincidental（让步状语从句）\n分词结构：conducted over a period of fifteen years across multiple continents（过去分词，修饰studies）\n副词结构：thereby confirming the validity of the hypothesis（现在分词，表结果）",
+            "主干：What concerns environmentalists most is not the immediate damage but the long-term ecological consequences.\n从句1：What concerns environmentalists most（主语从句）\n从句2：caused by the oil spill itself（过去分词，修饰damage）\n从句3：that may persist for decades（定语从句，修饰consequences）\n从句4：affecting marine biodiversity and coastal communities（现在分词，表伴随）\n从句5：that depend on fishing for their livelihood（定语从句，修饰communities）"
+          ],
+          "explanations": [
+            "分析步骤：①找谓语动词（was proposed, has been supported, suggests, evolved）②找主语（The theory）③找宾语（that从句）④识别修饰成分（which从句、called分词）。",
+            "分析步骤：①Although引导让步从句，可暂时忽略 ②主干：subsequent studies... have replicated... results ③conducted分词修饰studies ④thereby confirming表结果。",
+            "分析步骤：①What concerns...是主语从句 ②not...but...结构连接两个表语 ③多个从句层层修饰：consequences → that may persist → affecting... → that depend on..."
+          ],
+          "tips": "长难句分析技巧：①先找谓语动词（几个动词就有几个从句/分句）②找连接词（which/that/although/what）③忽略修饰成分，抓主干（谁做了什么）④注意嵌套结构（从句套从句）⑤每天分析3-5个长难句，2周后阅读速度明显提升"
+        }
+      },
+      {
+        "type": "video",
+        "section": "writing",
+        "title": "【视频】顾家北写作 - Task 2开头段与结尾段写法",
+        "description": "学习如何写出吸引人的开头和有力的结尾。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "B站：顾家北雅思写作网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      }
+    ]
+  },
+  {
+    "day": 13,
+    "title": "听力场景词汇与写作双边讨论",
+    "theme": "词汇积累 + 论证平衡",
+    "total_time": "4.5小时",
+    "tasks": [
+      {
+        "type": "video",
+        "section": "listening",
+        "title": "【视频】何琼听力 - 场景词汇分类记忆",
+        "description": "学习听力高频场景词汇：租房、旅游、学术、环保、健康。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：何琼雅思听力网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          },
+          {
+            "name": "雅思听力王语料库",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "listening",
+        "title": "【练习】听力场景词汇测试",
+        "description": "测试高频场景词汇的掌握程度。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网听力练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "写出以下中文对应的英文词汇（听力常考）。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "住宿：双人房 __________"
+            },
+            {
+              "num": 2,
+              "text": "住宿：押金 __________"
+            },
+            {
+              "num": 3,
+              "text": "旅游：预订 __________"
+            },
+            {
+              "num": 4,
+              "text": "旅游：出发 __________"
+            },
+            {
+              "num": 5,
+              "text": "学术：论文 __________"
+            },
+            {
+              "num": 6,
+              "text": "学术：参考书目 __________"
+            },
+            {
+              "num": 7,
+              "text": "环保：可再生能源 __________"
+            },
+            {
+              "num": 8,
+              "text": "环保：碳排放 __________"
+            },
+            {
+              "num": 9,
+              "text": "健康：处方药 __________"
+            },
+            {
+              "num": 10,
+              "text": "健康：副作用 __________"
+            }
+          ],
+          "answers": [
+            "double room",
+            "deposit",
+            "reservation/booking",
+            "departure",
+            "essay/dissertation/thesis",
+            "bibliography/references",
+            "renewable energy",
+            "carbon emissions",
+            "prescription (medicine)",
+            "side effects"
+          ],
+          "explanations": [
+            "double room = 双人房（注意：twin room是两张单人床，double room是一张双人床）。",
+            "deposit = 押金（租房场景高频词）。注意与down payment（首付）区分。",
+            "reservation = 预订（美式常用），booking = 预订（英式常用）。",
+            "departure = 出发（机场/旅游场景）。注意与arrival（到达）相对。",
+            "essay = 短文（本科常用），dissertation = 论文（硕士常用），thesis = 论文（博士/研究常用）。",
+            "bibliography = 参考书目，references = 参考文献。学术写作必备词汇。",
+            "renewable energy = 可再生能源。包括solar energy, wind power, hydroelectric power等。",
+            "carbon emissions = 碳排放。环保类核心词。注意carbon footprint（碳足迹）。",
+            "prescription = 处方/处方药。注意与over-the-counter medicine（非处方药）区分。",
+            "side effects = 副作用。医疗健康类高频词。"
+          ],
+          "tips": "场景词汇记忆法：①按主题分类整理（住宿/旅游/学术/环保/健康）②制作单词卡片，正面中文背面英文 ③听写练习：播放音频写下单词 ④同义替换扩展（deposit = security payment = bond）⑤每天复习1个场景，5天一轮"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "speaking",
+        "title": "【练习】口语Part 1 - Transport话题",
+        "description": "练习交通话题。",
+        "duration": "20分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语题库",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "请回答以下Part 1问题。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "How do you usually travel to work or school?"
+            },
+            {
+              "num": 2,
+              "text": "What is the most popular means of transport in your city?"
+            },
+            {
+              "num": 3,
+              "text": "Do you prefer public transport or private transport?"
+            },
+            {
+              "num": 4,
+              "text": "What changes would improve the transport system in your city?"
+            }
+          ],
+          "answers": [
+            "I usually take the subway to university because it's the most reliable and fastest option during rush hour. The journey takes about 25 minutes, which gives me time to listen to podcasts or review my notes.",
+            "Without a doubt, the subway is the most popular means of transport in my city. It has an extensive network covering most districts, and it's affordable compared to taxis or ride-sharing services.",
+            "I definitely prefer public transport, primarily for environmental reasons. Buses and trains produce far fewer emissions per passenger than private cars. Additionally, I can use travel time productively rather than focusing on driving.",
+            "I think two major changes would make a huge difference. Firstly, increasing the frequency of buses during peak hours would reduce overcrowding. Secondly, building more dedicated bicycle lanes would encourage eco-friendly commuting and improve public health."
+          ],
+          "explanations": [
+            "评分要点：具体说明交通方式（subway）+ 补充细节（25 minutes, listen to podcasts）。",
+            "评分要点：使用Without a doubt加强语气。用比较级（affordable compared to）进行说明。",
+            "评分要点：使用definitely prefer表达明确偏好。用primarily for...说明原因。使用far fewer进行强调。",
+            "评分要点：使用two major changes分层论述。用Firstly/Secondly组织观点。使用would make a huge difference表达影响。"
+          ],
+          "tips": "Transport话题技巧：①具体化（不说I take bus，说I take Line 2 subway）②比较不同交通方式（public vs private, convenient vs eco-friendly）③提出改进建议时使用Firstly/Secondly ④使用环境类词汇（emissions, eco-friendly, overcrowding）"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "reading",
+        "title": "【练习】阅读限时训练 - Passage 3",
+        "description": "限时完成一篇Passage 3，训练时间压力下的解题能力。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网阅读练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "限时25分钟完成以下Passage 3模拟题。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "（限时练习，答案见解析）"
+            }
+          ],
+          "answers": [
+            "限时练习答案请参考新东方官网解析"
+          ],
+          "explanations": [
+            "限时练习建议在新东方官网 https://ieltscat.xdf.cn/ 完成，系统会自动计时并评分。"
+          ],
+          "tips": "Passage 3限时技巧：①先读标题和首段，了解主题 ②先看题目，划出关键词 ③采用平行阅读法：读一段做一题 ④难题先跳过，最后回头做 ⑤最后5分钟检查答题卡"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "writing",
+        "title": "【练习】写作Task 2 - 双边讨论类（进阶）",
+        "description": "练习更复杂的双边讨论，加入个人立场。",
+        "duration": "50分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网写作题库",
+            "url": "https://ieltscat.xdf.cn/"
+          },
+          {
+            "name": "IELTS Simon写作范文",
+            "url": "https://www.ielts-simon.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "请根据以下题目写一篇250词以上的议论文。\n\nSome people believe that the purpose of education is to prepare individuals for employment, while others think it should aim to develop personal growth and critical thinking.\nDiscuss both views and give your own opinion.",
+          "questions": [
+            {
+              "num": 1,
+              "text": "范文参考"
+            }
+          ],
+          "answers": [
+            "The fundamental purpose of education has been debated for centuries, with some arguing that its primary role is to equip students with job-specific skills, while others emphasize the development of well-rounded individuals capable of independent thought.\n\nThose who prioritize employment preparation argue that education should be practical and directly relevant to industry needs. In an increasingly competitive job market, graduates need specific technical competencies, such as programming, data analysis, or engineering skills, to secure well-paying positions. Vocational schools and specialized degree programs are designed precisely for this purpose, and their graduates often find employment more quickly than those with general academic backgrounds. Furthermore, when education aligns with economic demands, it contributes to national productivity and reduces unemployment rates.\n\nOn the other hand, proponents of personal growth and critical thinking argue that education should transcend mere job training. They believe that cultivating analytical abilities, creativity, and ethical reasoning produces citizens who can adapt to changing circumstances and contribute meaningfully to society. A broad education in humanities, sciences, and arts fosters intellectual curiosity and emotional intelligence, qualities that remain valuable throughout life regardless of career changes. History shows that many influential thinkers and innovators were shaped by diverse educational experiences rather than narrow technical training.\n\nIn my view, while employment preparation is undoubtedly important, education should ultimately serve both purposes. A balanced approach that combines practical skills with intellectual development produces not only competent workers but also thoughtful, adaptable individuals who can navigate an unpredictable future.\n\n(Word count: 273)"
+          ],
+          "explanations": [
+            "范文结构分析：\n①Introduction：背景句 + 双方观点概述\n②Body 1（就业准备方）：3个论点（competitive job market, vocational schools, national productivity）\n③Body 2（个人成长方）：3个论点（transcend job training, analytical abilities, historical evidence）\n④Conclusion：个人立场（balanced approach serving both purposes）\n\n高分表达：\n- fundamental purpose\n- equip students with\n- increasingly competitive\n- transcend mere job training\n- cultivating analytical abilities\n- intellectual curiosity\n- navigate an unpredictable future"
+          ],
+          "tips": "双边讨论类进阶技巧：\n①每方观点要有2-3个论点，每个论点有解释或例子\n②使用具体例子（vocational schools, programming, data analysis）而非泛泛而谈\n③个人立场要明确，可以支持一方或提出平衡观点\n④使用学术词汇：prioritize, proponents, transcend, cultivate, foster, navigate"
+        }
+      },
+      {
+        "type": "video",
+        "section": "speaking",
+        "title": "【视频】杨帅口语 - Part 3社会类话题",
+        "description": "学习讨论社会趋势和变化的表达方式。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "B站：杨帅雅思口语网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      }
+    ]
+  },
+  {
+    "day": 14,
+    "title": "全科整套练习与口语事件类",
+    "theme": "整套模拟 + 事件叙述",
+    "total_time": "4.5小时",
+    "tasks": [
+      {
+        "type": "video",
+        "section": "listening",
+        "title": "【视频】何琼听力 - Section 4笔记技巧",
+        "description": "学习如何在听的同时快速记录关键词。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：何琼雅思听力网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "listening",
+        "title": "【练习】听力整套模拟 - 剑雅Test 4 Section 3-4",
+        "description": "完成Section 3和Section 4，限时15分钟。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网听力练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "完成以下听力Section 3-4模拟题，严格限时15分钟。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "（整套练习，答案见解析）"
+            }
+          ],
+          "answers": [
+            "整套练习答案请参考新东方官网解析"
+          ],
+          "explanations": [
+            "整套练习建议在新东方官网 https://ieltscat.xdf.cn/ 完成，系统会自动评分并提供详细解析。"
+          ],
+          "tips": "Section 3-4技巧：①Section 3注意区分说话人观点 ②Section 4提前预测主题词 ③使用缩写快速记录（govt = government, enviro = environment）④注意词性变化"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "reading",
+        "title": "【练习】阅读整套模拟 - 剑雅Test 4 Passage 2-3",
+        "description": "完成Passage 2和Passage 3，限时45分钟。",
+        "duration": "50分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网阅读练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "完成以下阅读Passage 2-3模拟题，严格限时45分钟。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "（整套练习，答案见解析）"
+            }
+          ],
+          "answers": [
+            "整套练习答案请参考新东方官网解析"
+          ],
+          "explanations": [
+            "整套练习建议在新东方官网 https://ieltscat.xdf.cn/ 完成，系统会自动评分并提供详细解析。"
+          ],
+          "tips": "Passage 2-3技巧：①Passage 2通常包含判断题和填空题，相对简单 ②Passage 3通常包含Heading题和匹配题，难度最大 ③先做简单题型，再做难题 ④最后5分钟填答题卡"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "speaking",
+        "title": "【练习】口语Part 2 - Describe a challenging thing you did",
+        "description": "练习事件类Part 2（挑战类）。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语题库",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "Describe a challenging thing you have done.\nYou should say:\n- What it was\n- When and where you did it\n- Who helped you\n- And explain how you felt about it",
+          "questions": [
+            {
+              "num": 1,
+              "text": "完整Part 2回答示范"
+            }
+          ],
+          "answers": [
+            "One of the most challenging things I've ever done was organizing a charity fundraising event for a local children's hospital last year. It took place at my university over the course of three months, and I worked alongside five classmates who shared my passion for community service.\n\nThe challenge was multifaceted. Firstly, we had to secure a venue, which involved negotiating with the university administration and obtaining various permits. Secondly, we needed to recruit performers and sponsors, which meant countless cold calls and emails to local businesses. The most difficult aspect was managing our team dynamics, as we had conflicting ideas about how the event should be structured. There were moments when I felt overwhelmed and doubted whether we could pull it off.\n\nWhat helped me persevere was the support of my teammates and the thought of the children who would benefit from our efforts. We divided responsibilities according to each person's strengths, held weekly progress meetings, and maintained open communication when disagreements arose.\n\nWhen the event finally took place and we raised over 10,000 yuan, I felt an immense sense of accomplishment and pride. The experience taught me that leadership is not about having all the answers but about bringing people together toward a common goal. It also made me realize that challenges, while stressful in the moment, often become the most meaningful and transformative experiences in retrospect."
+          ],
+          "explanations": [
+            "评分要点分析：\n①流利度：使用One of the most challenging things I've ever done开场，定语从句（who shared my passion）使叙述连贯。\n②词汇：使用multifaceted, secure a venue, negotiating, conflicting ideas, overwhelmed, persevere, immense sense of accomplishment等高级词汇。\n③语法：使用过去完成时（had done, had secured），when引导时间状语从句，that引导宾语从句。\n④内容：覆盖所有cue card要点，加入具体细节（10,000 yuan, weekly progress meetings）。\n⑤情感升华：从挑战经历上升到领导力感悟（leadership is about bringing people together）。"
+          ],
+          "tips": "挑战类Part 2技巧：①描述挑战的具体方面（时间/资源/人际/技能）②表达真实情感（overwhelmed/doubted/stressed）③说明如何克服（support/teamwork/division of labor）④总结教训和感悟（meaningful/transformative/leadership）⑤准备关键词：challenge/when/where/who helped/how felt/lesson learned"
+        }
+      },
+      {
+        "type": "video",
+        "section": "writing",
+        "title": "【视频】Simon写作 - Task 1饼图与表格",
+        "description": "学习饼图和表格的描述方法。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "B站：Simon雅思写作网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "writing",
+        "title": "【练习】写作Task 1 - 饼图",
+        "description": "练习饼图描述。",
+        "duration": "35分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网写作题库",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "请根据以下图表写一篇150词以上的报告。\n\nThe pie charts show the proportion of energy produced from different sources in a country in 1995 and 2005.\n\nSummarize the information by selecting and reporting the main features, and make comparisons where relevant.",
+          "questions": [
+            {
+              "num": 1,
+              "text": "范文参考"
+            }
+          ],
+          "answers": [
+            "The two pie charts compare the sources of energy production in a particular country in the years 1995 and 2005.\n\nOverall, fossil fuels remained the dominant source of energy throughout this period, while there was a notable shift toward renewable energy sources. Coal and oil experienced opposite trends, and nuclear energy maintained a relatively stable contribution.\n\nIn 1995, coal was the largest energy source, accounting for approximately 45% of total production. Oil constituted roughly 30%, while natural gas and nuclear power each represented about 10%. Renewable sources, including hydroelectric, wind, and solar, made up only 5% of the total.\n\nBy 2005, the pattern had changed considerably. Coal's share dropped significantly to around 30%, whereas oil increased to nearly 40%. Natural gas remained unchanged at 10%, and nuclear power saw a slight decrease to 8%. The most dramatic change was in renewable energy, which more than doubled from 5% to 12%, reflecting growing environmental awareness and technological advances in clean energy.\n\n(Word count: 169)"
+          ],
+          "explanations": [
+            "范文结构分析：\n①Introduction：改写题目（compare the sources of energy production）\n②Overview：总体趋势（fossil fuels dominant, shift toward renewable）+ 主要变化（coal and oil opposite trends）\n③Body 1：1995年数据\n④Body 2：2005年数据 + 对比\n\n高分表达：\n- remained the dominant source\n- notable shift toward\n- accounting for approximately\n- constituted roughly\n- made up only\n- dropped significantly\n- more than doubled\n- reflecting growing environmental awareness\n\n饼图核心句型：\n- accounting for X%\n- constituted roughly X%\n- represented about X%\n- made up X% of the total\n- saw a slight decrease/increase"
+          ],
+          "tips": "Task 1饼图技巧：\n①结构：Introduction + Overview + 2 Body paragraphs\n②Overview：最大份额 + 最显著变化\n③使用account for/constitute/represent/make up表达占比\n④注意比较：A was twice as large as B / A was considerably larger than B\n⑤使用分词结构：reflecting..., indicating..., suggesting..."
+        }
+      }
+    ]
+  },
+  {
+    "day": 15,
+    "title": "【模考3】第三次全真模拟考试",
+    "theme": "完整模考 + 冲刺前诊断",
+    "total_time": "5小时",
+    "tasks": [
+      {
+        "type": "mock",
+        "section": "listening",
+        "title": "【模考】听力完整测试（剑雅Test 5）",
+        "description": "完成一套完整听力测试，严格计时30分钟。",
+        "duration": "40分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网模考",
+            "url": "https://ieltscat.xdf.cn/"
+          },
+          {
+            "name": "雅思哥APP模考",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "note": "对比前两次模考，检查是否有稳定进步。目标：听力5.5→6.0+。"
+      },
+      {
+        "type": "mock",
+        "section": "reading",
+        "title": "【模考】阅读完整测试（剑雅Test 5）",
+        "description": "完成一套完整阅读测试，严格计时60分钟。",
+        "duration": "70分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网模考",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "note": "目标：阅读6.0→6.5+。注意时间分配。"
+      },
+      {
+        "type": "mock",
+        "section": "writing",
+        "title": "【模考】写作完整测试（Task 1 + Task 2）",
+        "description": "Task 1：20分钟；Task 2：40分钟。",
+        "duration": "70分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网写作题库",
+            "url": "https://ieltscat.xdf.cn/"
+          },
+          {
+            "name": "IELTS Simon写作范文",
+            "url": "https://www.ielts-simon.com/"
+          }
+        ],
+        "has_answer": false,
+        "note": "目标：写作5.5→6.0+。检查Task Response和Coherence。"
+      },
+      {
+        "type": "mock",
+        "section": "speaking",
+        "title": "【模考】口语完整模拟（Part 1+2+3）",
+        "description": "模拟完整口语考试。",
+        "duration": "15分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语模考",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": false,
+        "note": "目标：口语5.0→6.0+。重点检查流利度和语法多样性。"
+      },
+      {
+        "type": "practice",
+        "section": "review",
+        "title": "【复盘】冲刺前弱项诊断",
+        "description": "分析三次模考趋势，确定最后5天的冲刺重点。",
+        "duration": "45分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网答案解析",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": false,
+        "note": "如果听力仍低于6.0，最后5天每天精听1小时。如果口语仍低于6.0，每天练习Part 2和Part 3各30分钟。"
+      }
+    ]
+  },
+  {
+    "day": 16,
+    "title": "全科冲刺与写作综合",
+    "theme": "冲刺训练 + 作文整合",
+    "total_time": "4.5小时",
+    "tasks": [
+      {
+        "type": "video",
+        "section": "listening",
+        "title": "【视频】何琼听力 - 考前冲刺要点",
+        "description": "复习听力所有题型的核心技巧和常见陷阱。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：何琼雅思听力网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "listening",
+        "title": "【练习】听力高频错题回顾",
+        "description": "回顾之前模考和练习中的错题，分析错误原因。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网听力练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "回顾之前练习中的错题，完成以下错题分析。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "错题类型1：拼写错误 → 对策：__________"
+            },
+            {
+              "num": 2,
+              "text": "错题类型2：单复数错误 → 对策：__________"
+            },
+            {
+              "num": 3,
+              "text": "错题类型3：同义替换没听出 → 对策：__________"
+            },
+            {
+              "num": 4,
+              "text": "错题类型4：数字听错 → 对策：__________"
+            },
+            {
+              "num": 5,
+              "text": "错题类型5：走神漏听 → 对策：__________"
+            }
+          ],
+          "answers": [
+            "建立个人易错词本，考前重点复习；注意英式/美式拼写差异（center/centre, color/colour）",
+            "听完后快速检查语法：a/an后面接单数，many/few后面接复数；注意-s/-es发音",
+            "每天背诵10组同义替换对；重点复习剑雅真题中的替换；注意形容词和副词的替换",
+            "专项练习数字听写：电话号码、日期、金额、百分比；注意teen和ty的区别（13 vs 30）",
+            "练习专注力：每天做一套完整听力不暂停；使用笔记法保持注意力；预测答案类型"
+          ],
+          "explanations": [
+            "拼写错误是5分考生最常见的问题。建议建立错题本，记录所有拼写错误的单词。",
+            "单复数错误通常是因为没有注意语法一致性。检查时态和冠词可以帮助判断。",
+            "同义替换是雅思听力的核心考点。建议整理剑雅4-15中的所有同义替换对。",
+            "数字听错通常是因为对英语数字发音不熟悉。建议每天练习5分钟数字听写。",
+            "走神漏听通常发生在Section 3和Section 4。建议通过预测答案类型来保持专注。"
+          ],
+          "tips": "考前冲刺策略：①回顾错题比做新题更重要 ②每天保持1套听力练习维持题感 ③重点复习易错题型 ④考前3天调整作息，保证考试时间段精力充沛"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "speaking",
+        "title": "【练习】口语Part 3 - 科技话题",
+        "description": "练习科技类Part 3深度讨论。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语题库",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "请回答以下Part 3问题，注意论证结构。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "How has technology changed the way people communicate?"
+            },
+            {
+              "num": 2,
+              "text": "Do you think people are too dependent on technology nowadays?"
+            },
+            {
+              "num": 3,
+              "text": "What are the negative effects of social media on society?"
+            },
+            {
+              "num": 4,
+              "text": "Should governments regulate the use of artificial intelligence?"
+            },
+            {
+              "num": 5,
+              "text": "How might technology change education in the future?"
+            }
+          ],
+          "answers": [
+            "Technology has fundamentally transformed communication, making it instantaneous and global. Platforms like WeChat and Zoom allow people to maintain relationships across vast distances, which was impossible in the past. However, this convenience has come at the cost of face-to-face interaction quality, as digital messages often lack the emotional nuance of in-person conversations.",
+            "To some extent, yes. Many people, especially younger generations, struggle to function without their smartphones for even a few hours. This dependency raises concerns about attention spans, mental health, and the ability to perform basic tasks without digital assistance. That said, technology is so deeply integrated into modern work and life that complete independence is neither realistic nor desirable.",
+            "Social media has several detrimental effects on society. It often creates echo chambers where people only encounter viewpoints that reinforce their existing beliefs, polarizing public discourse. Additionally, the constant comparison with curated online personas can damage self-esteem and contribute to anxiety and depression, particularly among adolescents.",
+            "I believe some regulation is necessary, particularly regarding privacy protection and algorithmic transparency. AI systems that influence hiring decisions, credit scoring, or criminal justice should be subject to strict oversight to prevent bias and discrimination. However, excessive regulation might stifle innovation, so a balanced approach is essential.",
+            "In the future, I envision education becoming highly personalized through adaptive learning platforms that tailor content to each student's pace and learning style. Virtual and augmented reality could provide immersive experiences, such as virtual field trips or historical recreations. However, I hope technology will enhance rather than replace teachers, preserving the mentorship and inspiration that only humans can provide."
+          ],
+          "explanations": [
+            "评分要点：使用fundamentally transformed强调变化程度。用However进行转折，指出负面影响。",
+            "评分要点：使用To some extent, yes表达 nuanced 观点。用That said进行修正，展现批判性思维。",
+            "评分要点：使用具体概念（echo chambers, curated online personas）展现词汇深度。用particularly among adolescents限定范围。",
+            "评分要点：使用I believe some regulation is necessary表达立场。用particularly regarding限定范围。用However进行平衡。",
+            "评分要点：使用In the future, I envision...展望未来。用However, I hope...表达期望。使用immersive experiences, virtual field trips等具体例子。"
+          ],
+          "tips": "科技类Part 3技巧：①使用具体例子（WeChat, Zoom, AI, social media）②展现批判性思维（优点+缺点+平衡观点）③使用学术词汇（fundamentally, detrimental, algorithmic, immersive）④注意时态（has changed, might stifle, could provide）"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "reading",
+        "title": "【练习】阅读冲刺 - 高频题型组合",
+        "description": "练习一套包含判断题+填空题+Heading题的组合。",
+        "duration": "35分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网阅读练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "限时完成以下阅读组合练习。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "（组合练习，答案见解析）"
+            }
+          ],
+          "answers": [
+            "组合练习答案请参考新东方官网解析"
+          ],
+          "explanations": [
+            "组合练习建议在新东方官网 https://ieltscat.xdf.cn/ 完成，系统会自动评分并提供详细解析。"
+          ],
+          "tips": "阅读冲刺技巧：①判断题和填空题优先做（相对简单，定位明确）②Heading题最后做（需要对段落有整体理解）③每篇控制在20分钟内 ④最后2分钟检查答题卡"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "writing",
+        "title": "【练习】写作Task 2 - 综合练习（观点类）",
+        "description": "练习观点类作文，限时40分钟。",
+        "duration": "50分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网写作题库",
+            "url": "https://ieltscat.xdf.cn/"
+          },
+          {
+            "name": "IELTS Simon写作范文",
+            "url": "https://www.ielts-simon.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "请根据以下题目写一篇250词以上的议论文，限时40分钟。\n\nSome people think that the best way to improve public health is by increasing the number of sports facilities. Others believe this would have little effect and that other measures are required.\nDiscuss both views and give your own opinion.",
+          "questions": [
+            {
+              "num": 1,
+              "text": "范文参考"
+            }
+          ],
+          "answers": [
+            "Public health is an increasingly pressing concern in modern society, and opinions differ on whether building more sports facilities is the most effective solution or whether alternative approaches are needed.\n\nAdvocates of expanding sports infrastructure argue that accessibility is key to encouraging physical activity. When gyms, swimming pools, and jogging tracks are readily available in residential areas, people are more likely to incorporate exercise into their daily routines. This is particularly important for sedentary office workers who might otherwise remain inactive. Furthermore, well-designed public sports facilities can foster community engagement and create social incentives for maintaining healthy habits.\n\nHowever, critics contend that simply building facilities does not guarantee their use. Many people lack the motivation or knowledge to exercise effectively, regardless of availability. They argue that public health campaigns focusing on nutrition education, smoking cessation, and mental health awareness would yield greater benefits. Additionally, urban planning decisions that promote walking and cycling over car dependency can integrate physical activity naturally into people's lives without requiring dedicated exercise sessions.\n\nIn my opinion, while sports facilities are valuable, they should be part of a comprehensive public health strategy. Governments should combine infrastructure investment with education initiatives and policy changes that make healthy choices easier. Only through such a multifaceted approach can significant improvements in population health be achieved.\n\n(Word count: 245)"
+          ],
+          "explanations": [
+            "范文结构分析：\n①Introduction：背景 + 双方观点概述\n②Body 1（支持方）：accessibility + daily routines + community engagement\n③Body 2（反对方）：lack motivation + public health campaigns + urban planning\n④Conclusion：个人立场（comprehensive strategy + multifaceted approach）\n\n高分表达：\n- increasingly pressing concern\n- accessibility is key\n- readily available\n- incorporate exercise into daily routines\n- sedentary office workers\n- foster community engagement\n- yield greater benefits\n- multifaceted approach"
+          ],
+          "tips": "观点类作文冲刺技巧：\n①限时40分钟完成（Introduction 5分钟 + Body 1 12分钟 + Body 2 12分钟 + Conclusion 5分钟 + 检查6分钟）\n②确保每个Body段落有2-3个论点\n③使用具体例子（gyms, swimming pools, smoking cessation）\n④个人立场要明确，放在Conclusion"
+        }
+      },
+      {
+        "type": "video",
+        "section": "speaking",
+        "title": "【视频】Tara口语 - 考前口语冲刺",
+        "description": "复习Part 1/2/3的核心技巧和常见话题。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "B站：Tara雅思口语网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      }
+    ]
+  },
+  {
+    "day": 17,
+    "title": "口语全Part模拟与高频错题复习",
+    "theme": "口语冲刺 + 错题巩固",
+    "total_time": "4.5小时",
+    "tasks": [
+      {
+        "type": "video",
+        "section": "speaking",
+        "title": "【视频】杨帅口语 - 考前3天口语冲刺",
+        "description": "复习口语评分标准和提分要点：流利度、词汇、语法、发音。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "B站：杨帅雅思口语网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "speaking",
+        "title": "【练习】口语全Part模拟 - Set 1",
+        "description": "模拟完整口语考试，建议录音。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语模考",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "模拟完整口语考试（11-14分钟）。\n\nPart 1 (4-5分钟):\n- Do you live in a house or an apartment?\n- What do you like about your neighborhood?\n- Do you know your neighbors well?\n- What kind of accommodation do people in your country prefer?\n\nPart 2 (3-4分钟):\nDescribe a book you have read recently.\nYou should say:\n- What it is\n- When you read it\n- What it is about\n- And explain why you liked it\n\nPart 3 (4-5分钟):\n- Do people in your country read a lot?\n- What is the difference between reading books and watching films?\n- Do you think e-books will replace printed books?\n- What role do libraries play in modern society?",
+          "questions": [
+            {
+              "num": 1,
+              "text": "完整模拟考试"
+            }
+          ],
+          "answers": [
+            "模拟考试无固定答案，重点在于练习流程和时间控制"
+          ],
+          "explanations": [
+            "建议录音后回听，检查：①流利度（是否有过多停顿/重复）②语法错误（时态/单复数/介词）③词汇重复（是否多次使用good/nice/interesting）④发音（重音/语调/连读）"
+          ],
+          "tips": "口语模拟考试要点：①Part 1每个回答15-20秒 ②Part 2准备1分钟，写5-6个关键词 ③Part 2回答2分钟，注意时间控制 ④Part 3每个回答30-40秒，要有论证结构 ⑤保持自然，不要背诵"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "listening",
+        "title": "【练习】听力高频错题专项 - 数字与地址",
+        "description": "专项练习易错题型。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网听力练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "专项练习以下易错题型。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "电话号码：0171 295 4836 → __________"
+            },
+            {
+              "num": 2,
+              "text": "日期：the __________ of March, 2024"
+            },
+            {
+              "num": 3,
+              "text": "地址：__________ Street, London"
+            },
+            {
+              "num": 4,
+              "text": "邮编：__________"
+            },
+            {
+              "num": 5,
+              "text": "金额：__________ pounds fifty"
+            },
+            {
+              "num": 6,
+              "text": "百分比：__________ percent"
+            },
+            {
+              "num": 7,
+              "text": "时间：quarter past __________"
+            },
+            {
+              "num": 8,
+              "text": "航班号：__________ 284"
+            },
+            {
+              "num": 9,
+              "text": "房间号：__________"
+            },
+            {
+              "num": 10,
+              "text": "参考号：__________"
+            }
+          ],
+          "answers": [
+            "0171 295 4836",
+            "15th / fifteenth",
+            "Oxford / Baker / King",
+            "SW1A 1AA / W1D 3QR",
+            "twenty / 20",
+            "seventy-five / 75",
+            "nine / 9",
+            "BA / AA / EK",
+            "204B / 305A",
+            "REF-2024-8891"
+          ],
+          "explanations": [
+            "电话号码注意：0读作oh或zero，连读时注意停顿。",
+            "日期注意：the + 序数词 + of + 月份。",
+            "街道名注意：常见街道名（Oxford Street, Baker Street, King Street）。",
+            "邮编注意：英式邮编格式（字母+数字+字母 数字+字母+数字）。",
+            "金额注意：twenty pounds fifty = £20.50。",
+            "百分比注意：seventy-five percent = 75%。",
+            "时间注意：quarter past nine = 9:15。",
+            "航班号注意：两个字母+数字（BA = British Airways, AA = American Airlines, EK = Emirates）。",
+            "房间号注意：数字+字母（204B = two-oh-four-B）。",
+            "参考号注意：通常包含字母、数字和连字符。"
+          ],
+          "tips": "数字和地址专项技巧：①每天练习5分钟数字听写 ②熟悉常见地名和街道名 ③注意英式/美式发音差异 ④练习快速记录，使用缩写"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "reading",
+        "title": "【练习】阅读高频错题专项 - 判断题",
+        "description": "专项练习判断题，注意陷阱。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网阅读练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "专项练习判断题，注意以下陷阱。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "陷阱1：绝对词（all/only/never/completely）→ 通常是__________"
+            },
+            {
+              "num": 2,
+              "text": "陷阱2：比较级（more than/better than）原文无比较 → 通常是__________"
+            },
+            {
+              "num": 3,
+              "text": "陷阱3：数字/数据题，注意单位是否一致 → 不一致通常是__________"
+            },
+            {
+              "num": 4,
+              "text": "陷阱4：因果关系，注意是否颠倒或强加 → 强加因果通常是__________"
+            },
+            {
+              "num": 5,
+              "text": "陷阱5：范围扩大（some → all, may → will）→ 通常是__________"
+            }
+          ],
+          "answers": [
+            "FALSE",
+            "NOT GIVEN",
+            "FALSE",
+            "FALSE",
+            "FALSE"
+          ],
+          "explanations": [
+            "绝对词通常是FALSE，因为原文很少使用绝对表达。",
+            "比较级若原文无比较，是NOT GIVEN，因为无法判断。",
+            "数字单位不一致（如原文是miles，题目是kilometers）是FALSE。",
+            "强加因果（原文只说A和B同时发生，题目说A导致B）是FALSE。",
+            "范围扩大（some → all）是FALSE，因为改变了原文意思。"
+          ],
+          "tips": "判断题冲刺技巧：①先看题目，划出关键词 ②快速定位原文 ③注意同义替换 ④警惕绝对词和比较级 ⑤不确定时选NOT GIVEN"
+        }
+      },
+      {
+        "type": "video",
+        "section": "writing",
+        "title": "【视频】Simon写作 - 考前写作冲刺",
+        "description": "复习Task 1和Task 2的时间分配和检查清单。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "B站：Simon雅思写作网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "writing",
+        "title": "【练习】写作Task 1 - 表格题",
+        "description": "练习表格题描述。",
+        "duration": "35分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网写作题库",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "请根据以下图表写一篇150词以上的报告。\n\nThe table shows the percentage of mobile phone owners in six countries from 2005 to 2010.\n\nSummarize the information by selecting and reporting the main features, and make comparisons where relevant.",
+          "questions": [
+            {
+              "num": 1,
+              "text": "范文参考"
+            }
+          ],
+          "answers": [
+            "The table presents data on mobile phone ownership in six different countries over a five-year period from 2005 to 2010.\n\nOverall, mobile phone ownership increased in all six countries during this period, though the rates of growth varied considerably. Developing nations experienced more dramatic increases compared to developed countries, which already had high ownership rates in 2005.\n\nIn 2005, the United Kingdom and the United States had the highest percentages of mobile phone owners, at approximately 70% and 68% respectively. Germany and Japan followed closely, with around 60% and 55%. In contrast, Brazil and India had much lower figures, at roughly 30% and 15%.\n\nBy 2010, the pattern had shifted significantly. While the UK and US saw modest increases to about 85% and 82%, Germany and Japan rose to approximately 75% and 70%. The most striking changes occurred in Brazil and India, where ownership rates surged to around 60% and 45% respectively, effectively doubling or tripling their 2005 figures.\n\n(Word count: 175)"
+          ],
+          "explanations": [
+            "范文结构分析：\n①Introduction：改写题目（presents data on... over a five-year period）\n②Overview：总体趋势（increased in all six countries）+ 主要差异（developing vs developed）\n③Body 1：2005年数据\n④Body 2：2010年数据 + 对比\n\n高分表达：\n- presents data on\n- varied considerably\n- experienced more dramatic increases\n- respectively\n- in contrast\n- saw modest increases\n- surged to\n- effectively doubling or tripling\n\n表格题核心句型：\n- at approximately X%\n- around X%\n- roughly X%\n- rose to approximately X%\n- surged to around X%"
+          ],
+          "tips": "Task 1表格题技巧：\n①结构：Introduction + Overview + 2 Body paragraphs\n②Overview：总体趋势 + 最大差异\n③数据排列：按大小或按时间排列，不要混乱\n④使用respectively对应多个数据\n⑤注意倍数表达（doubling, tripling, quadruple）"
+        }
+      }
+    ]
+  },
+  {
+    "day": 18,
+    "title": "全科查漏补缺与写作范文背诵",
+    "theme": "查漏补缺 + 范文积累",
+    "total_time": "4.5小时",
+    "tasks": [
+      {
+        "type": "video",
+        "section": "listening",
+        "title": "【视频】何琼听力 - 考前最后提醒",
+        "description": "考前听力注意事项：心态、时间、检查。",
+        "duration": "20分钟",
+        "resources": [
+          {
+            "name": "B站：何琼雅思听力网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "listening",
+        "title": "【练习】听力最后巩固 - Section 1-2",
+        "description": "做一套Section 1-2，保持题感。",
+        "duration": "20分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网听力练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "完成一套Section 1-2，保持题感。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "（巩固练习，答案见解析）"
+            }
+          ],
+          "answers": [
+            "巩固练习答案请参考新东方官网解析"
+          ],
+          "explanations": [
+            "巩固练习建议在新东方官网 https://ieltscat.xdf.cn/ 完成。"
+          ],
+          "tips": "考前最后巩固：①每天做1套Section 1-2保持题感 ②重点复习场景词汇 ③检查拼写和单复数 ④保持自信"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "speaking",
+        "title": "【练习】口语全Part模拟 - Set 2",
+        "description": "第二次完整口语模拟。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语模考",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "模拟完整口语考试（11-14分钟）。\n\nPart 1 (4-5分钟):\n- Do you like cooking?\n- What kind of food do you prefer?\n- Do you prefer eating at home or in restaurants?\n- Is food important in your culture?\n\nPart 2 (3-4分钟):\nDescribe a person who has influenced you.\nYou should say:\n- Who this person is\n- How you know this person\n- What this person does\n- And explain how this person has influenced you\n\nPart 3 (4-5分钟):\n- What qualities make a good leader?\n- Do you think parents or friends have more influence on young people?\n- How can people become good role models?\n- Should celebrities be role models?",
+          "questions": [
+            {
+              "num": 1,
+              "text": "完整模拟考试"
+            }
+          ],
+          "answers": [
+            "模拟考试无固定答案，重点在于练习流程和时间控制"
+          ],
+          "explanations": [
+            "建议录音后回听，检查流利度、语法、词汇和发音。对比Day 17的录音，看是否有进步。"
+          ],
+          "tips": "第二次模拟要点：①尝试使用新学的词汇和句型 ②注意时间控制 ③保持自然微笑和眼神交流（对着镜子练习）④Part 3尝试使用更复杂的论证结构"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "reading",
+        "title": "【练习】阅读最后巩固 - Passage 1",
+        "description": "做一篇Passage 1，保持题感。",
+        "duration": "20分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网阅读练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "限时15分钟完成一篇Passage 1。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "（巩固练习，答案见解析）"
+            }
+          ],
+          "answers": [
+            "巩固练习答案请参考新东方官网解析"
+          ],
+          "explanations": [
+            "巩固练习建议在新东方官网 https://ieltscat.xdf.cn/ 完成。"
+          ],
+          "tips": "Passage 1技巧：①通常最简单，争取全对 ②先做判断题和填空题 ③注意时间控制在15分钟内 ④最后2分钟检查"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "writing",
+        "title": "【练习】写作范文背诵与仿写",
+        "description": "背诵高分范文片段，提升写作语感。",
+        "duration": "50分钟",
+        "resources": [
+          {
+            "name": "IELTS Simon写作范文",
+            "url": "https://www.ielts-simon.com/"
+          },
+          {
+            "name": "新东方雅思官网写作题库",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "背诵以下高分范文片段，并仿写一段。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "开头段模板：The issue of [topic] has sparked considerable debate, with some arguing that [view 1], while others contend that [view 2]. In my opinion, [your view]."
+            },
+            {
+              "num": 2,
+              "text": "主体段模板：There are several reasons why [view]. Firstly, [reason 1]. This is because [explanation]. Secondly, [reason 2]. For example, [example]."
+            },
+            {
+              "num": 3,
+              "text": "结尾段模板：In conclusion, while [acknowledge opposite view], I believe that [restate your view]. [Final thought or recommendation]."
+            },
+            {
+              "num": 4,
+              "text": "Task 1 Overview模板：Overall, it is clear that [main trend]. [Key comparison or most significant feature]."
+            },
+            {
+              "num": 5,
+              "text": "Task 1数据描述模板：[Subject] [verb] from [number] in [year] to [number] in [year], [while/before] [subject] [verb] [number]."
+            }
+          ],
+          "answers": [
+            "背诵并理解结构：The issue of [topic] has sparked considerable debate...",
+            "背诵并理解结构：There are several reasons why...",
+            "背诵并理解结构：In conclusion, while...",
+            "背诵并理解结构：Overall, it is clear that...",
+            "背诵并理解结构：[Subject] [verb] from [number]..."
+          ],
+          "explanations": [
+            "开头段模板适用于所有Task 2题型。注意sparked considerable debate是高分表达。",
+            "主体段模板确保每个论点有解释和例子。注意This is because和For example的使用。",
+            "结尾段模板先让步再重申立场。注意Final thought增加深度。",
+            "Overview模板适用于所有Task 1题型。注意it is clear that后接最显著特征。",
+            "数据描述模板适用于动态图和表格。注意动词变化（rose/fell/increased/decreased/remained stable）。"
+          ],
+          "tips": "范文背诵技巧：①不要死记硬背整篇范文，背诵结构和句型 ②每天背诵2-3个句型 ③仿写时替换主题词 ④注意连接词的使用 ⑤考前3天每天默写一遍常用句型"
+        }
+      },
+      {
+        "type": "video",
+        "section": "speaking",
+        "title": "【视频】Tara口语 - 考前最后提醒",
+        "description": "考前口语注意事项：心态、服装、礼貌用语。",
+        "duration": "20分钟",
+        "resources": [
+          {
+            "name": "B站：Tara雅思口语网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      }
+    ]
+  },
+  {
+    "day": 19,
+    "title": "最后强化与口语高频话题",
+    "theme": "最后冲刺 + 高频话题覆盖",
+    "total_time": "4.5小时",
+    "tasks": [
+      {
+        "type": "video",
+        "section": "listening",
+        "title": "【视频】何琼听力 - 考前1天提醒",
+        "description": "最后1天听力准备：复习场景词汇、保持题感、调整作息。",
+        "duration": "15分钟",
+        "resources": [
+          {
+            "name": "B站：何琼雅思听力网课",
+            "url": "https://www.bilibili.com/video/BV1G7qaYGEz1"
+          }
+        ],
+        "has_answer": false
+      },
+      {
+        "type": "practice",
+        "section": "listening",
+        "title": "【练习】听力最后一套 - Section 1-2",
+        "description": "做最后一套Section 1-2，建立信心。",
+        "duration": "20分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网听力练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "完成最后一套Section 1-2。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "（最后练习，答案见解析）"
+            }
+          ],
+          "answers": [
+            "最后练习答案请参考新东方官网解析"
+          ],
+          "explanations": [
+            "最后练习建议在新东方官网 https://ieltscat.xdf.cn/ 完成。"
+          ],
+          "tips": "考前最后1天：①做1套简单题目建立信心 ②复习错题本 ③检查考试用品（身份证、准考证、铅笔）④早睡，保证充足睡眠"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "speaking",
+        "title": "【练习】口语高频话题速练 - Part 1",
+        "description": "快速练习高频Part 1话题。",
+        "duration": "20分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语题库",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "快速回答以下高频Part 1话题，每个回答15-20秒。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "Do you like your hometown?"
+            },
+            {
+              "num": 2,
+              "text": "What do you do for work/study?"
+            },
+            {
+              "num": 3,
+              "text": "Do you prefer mornings or evenings?"
+            },
+            {
+              "num": 4,
+              "text": "What do you do in your free time?"
+            },
+            {
+              "num": 5,
+              "text": "Do you like traveling?"
+            },
+            {
+              "num": 6,
+              "text": "What kind of music do you like?"
+            },
+            {
+              "num": 7,
+              "text": "Do you prefer to spend time alone or with friends?"
+            },
+            {
+              "num": 8,
+              "text": "What is your favorite season?"
+            }
+          ],
+          "answers": [
+            "Yes, I really like my hometown. It's a peaceful city with beautiful parks and friendly people.",
+            "I'm a university student studying computer science. I'm currently in my final year.",
+            "I'm definitely a morning person. I feel more energetic and focused in the early hours.",
+            "I enjoy reading and jogging. I usually read novels in the evening and jog in the park on weekends.",
+            "Yes, I love traveling. I think it's the best way to experience different cultures and broaden my horizons.",
+            "I mostly listen to pop music and classical music. Pop music helps me relax, while classical music helps me focus when studying.",
+            "It depends on my mood. Sometimes I need alone time to recharge, but I also enjoy socializing with friends on weekends.",
+            "My favorite season is autumn because the weather is mild and the scenery is beautiful with all the colorful leaves."
+          ],
+          "explanations": [
+            "简洁回答+1个细节。使用peaceful, beautiful parks, friendly people等描述。",
+            "直接回答+专业+年级。使用currently in my final year。",
+            "明确偏好+原因。使用definitely, energetic, focused。",
+            "列举活动+时间。使用usually, on weekends。",
+            "直接回答+原因。使用broaden my horizons等表达。",
+            "列举类型+原因。使用helps me relax/focus。",
+            "灵活回答+解释。使用It depends on my mood, recharge, socializing。",
+            "直接回答+原因。使用mild, scenery, colorful leaves。"
+          ],
+          "tips": "Part 1速练技巧：①每个回答15-20秒 ②直接回答+1个细节 ③使用连接词（because, so, while, also）④保持自然，不要过度准备 ⑤微笑，展现自信"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "speaking",
+        "title": "【练习】口语高频话题速练 - Part 2",
+        "description": "快速练习高频Part 2话题。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语题库",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "快速准备以下高频Part 2话题，每个准备1分钟，回答2分钟。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "Describe a memorable journey."
+            },
+            {
+              "num": 2,
+              "text": "Describe a person who helped you."
+            },
+            {
+              "num": 3,
+              "text": "Describe a favorite restaurant."
+            },
+            {
+              "num": 4,
+              "text": "Describe an important decision you made."
+            },
+            {
+              "num": 5,
+              "text": "Describe a skill you would like to learn."
+            }
+          ],
+          "answers": [
+            "准备关键词：where/when/who/what happened/why memorable",
+            "准备关键词：who/relationship/what they did/how it helped you/why grateful",
+            "准备关键词：where/type of food/atmosphere/why you like it/how often you go",
+            "准备关键词：what the decision was/when you made it/why difficult/outcome/lesson learned",
+            "准备关键词：what skill/why interested/how you would learn/benefits/challenges"
+          ],
+          "explanations": [
+            "旅程类：使用时间顺序（before/during/after），描述景色和感受。",
+            "人物类：描述外貌+性格+具体帮助事件+你的感受。",
+            "地点类：描述位置+环境+食物/服务+为什么喜欢。",
+            "事件类：描述背景+决策过程+结果+教训。",
+            "技能类：描述技能+为什么想学+学习方法+好处。"
+          ],
+          "tips": "Part 2速练技巧：①1分钟准备时写5-6个关键词 ②使用通用结构：开头→描述→故事→感受 ③如果时间不够，直接跳到结尾 ④保持流利度比内容完整更重要 ⑤使用连接词（firstly, then, after that, finally）"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "reading",
+        "title": "【练习】阅读最后一套 - Passage 1-2",
+        "description": "做最后一套Passage 1-2，保持题感。",
+        "duration": "25分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网阅读练习",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "限时30分钟完成Passage 1-2。",
+          "questions": [
+            {
+              "num": 1,
+              "text": "（最后练习，答案见解析）"
+            }
+          ],
+          "answers": [
+            "最后练习答案请参考新东方官网解析"
+          ],
+          "explanations": [
+            "最后练习建议在新东方官网 https://ieltscat.xdf.cn/ 完成。"
+          ],
+          "tips": "考前最后1天阅读：①做1套简单题目建立信心 ②复习同义替换对 ③注意时间分配 ④不要熬夜"
+        }
+      },
+      {
+        "type": "practice",
+        "section": "writing",
+        "title": "【练习】写作最后巩固 - Task 2提纲练习",
+        "description": "快速写3个Task 2提纲，训练思维速度。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网写作题库",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "exercises": {
+          "instructions": "为以下3个题目写提纲（每个10分钟）。\n\n题目1：Should governments ban dangerous sports?\n题目2：Is it better to live in the city or the countryside?\n题目3：Should students be allowed to use mobile phones in school?",
+          "questions": [
+            {
+              "num": 1,
+              "text": "题目1提纲"
+            },
+            {
+              "num": 2,
+              "text": "题目2提纲"
+            },
+            {
+              "num": 3,
+              "text": "题目3提纲"
+            }
+          ],
+          "answers": [
+            "Introduction: dangerous sports popular → some say ban → I disagree (regulate instead)\nBody 1 (why ban): risk of injury/death, cost to healthcare system, influence on young people\nBody 2 (why not ban): personal freedom, proper safety measures reduce risk, economic benefits (tourism/jobs)\nConclusion: ban is extreme → better to regulate and improve safety",
+            "Introduction: city vs countryside debate → depends on lifestyle → I prefer city\nBody 1 (city advantages): job opportunities, convenience, entertainment, education/healthcare\nBody 2 (countryside advantages): peaceful, low cost, close to nature, community feel\nConclusion: both have merits → personal choice based on priorities",
+            "Introduction: mobile phones common → debate in schools → I support limited use\nBody 1 (why allow): educational apps, emergency contact, digital literacy\nBody 2 (why restrict): distraction, cheating, cyberbullying, social isolation\nConclusion: allow with strict rules (only during breaks, no social media)"
+          ],
+          "explanations": [
+            "提纲要点：明确立场+2-3个论点+例子。注意平衡双方观点。",
+            "提纲要点：对比结构，每方2-3个论点。注意个人立场要明确。",
+            "提纲要点：有限支持/反对，提出具体限制条件。"
+          ],
+          "tips": "提纲练习技巧：①10分钟内完成一个提纲 ②包含：立场+Body 1论点+Body 2论点+Conclusion ③使用具体例子而非泛泛而谈 ④考前每天练习2-3个提纲"
+        }
+      }
+    ]
+  },
+  {
+    "day": 20,
+    "title": "【模考4】最终全真模拟与考前准备",
+    "theme": "最终模考 + 考前注意事项",
+    "total_time": "5小时",
+    "tasks": [
+      {
+        "type": "mock",
+        "section": "listening",
+        "title": "【模考】听力完整测试（剑雅Test 6）",
+        "description": "完成一套完整听力测试，严格计时30分钟。这是最后一次完整模考。",
+        "duration": "40分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网模考",
+            "url": "https://ieltscat.xdf.cn/"
+          },
+          {
+            "name": "雅思哥APP模考",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": true,
+        "note": "目标：听力6.0+。保持冷静，注意拼写和单复数。"
+      },
+      {
+        "type": "mock",
+        "section": "reading",
+        "title": "【模考】阅读完整测试（剑雅Test 6）",
+        "description": "完成一套完整阅读测试，严格计时60分钟。",
+        "duration": "70分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网模考",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": true,
+        "note": "目标：阅读6.5+。注意时间分配，不要在一道题上纠结太久。"
+      },
+      {
+        "type": "mock",
+        "section": "writing",
+        "title": "【模考】写作完整测试（Task 1 + Task 2）",
+        "description": "Task 1：20分钟；Task 2：40分钟。",
+        "duration": "70分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网写作题库",
+            "url": "https://ieltscat.xdf.cn/"
+          },
+          {
+            "name": "IELTS Simon写作范文",
+            "url": "https://www.ielts-simon.com/"
+          }
+        ],
+        "has_answer": false,
+        "note": "目标：写作6.0+。注意Task 2结构清晰，论点有例子支撑。"
+      },
+      {
+        "type": "mock",
+        "section": "speaking",
+        "title": "【模考】口语完整模拟（Part 1+2+3）",
+        "description": "模拟完整口语考试。",
+        "duration": "15分钟",
+        "resources": [
+          {
+            "name": "雅思哥APP口语模考",
+            "url": "https://www.ieltsbro.com/"
+          }
+        ],
+        "has_answer": false,
+        "note": "目标：口语6.0+。保持流利，使用连接词，展现语法多样性。"
+      },
+      {
+        "type": "practice",
+        "section": "review",
+        "title": "【复盘】20天学习总结与考前注意事项",
+        "description": "总结20天学习成果，检查考试准备事项。",
+        "duration": "30分钟",
+        "resources": [
+          {
+            "name": "新东方雅思官网",
+            "url": "https://ieltscat.xdf.cn/"
+          }
+        ],
+        "has_answer": false,
+        "note": "考前注意事项：①检查身份证/准考证 ②确认考试地点和时间 ③准备铅笔/橡皮/水 ④早睡，保证8小时睡眠 ⑤早餐吃好，保持精力 ⑥提前30分钟到达考场 ⑦保持自信，你已经准备充分！"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>20天雅思冲6.5-7分计划系统</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 头部 -->
+        <div class="header">
+            <h1>🎯 20天雅思冲6.5-7分计划系统</h1>
+            <div class="subtitle">专为5分基础设计 | 听力口语重点突破 | 每日任务分明</div>
+            <div class="stats">
+                <div class="stat-item"><div class="number">20</div><div class="label">天计划</div></div>
+                <div class="stat-item"><div class="number">--</div><div class="label">总任务</div></div>
+                <div class="stat-item"><div class="number">--</div><div class="label">练习题</div></div>
+                <div class="stat-item"><div class="number">--</div><div class="label">视频课</div></div>
+                <div class="stat-item"><div class="number">--</div><div class="label">模考</div></div>
+            </div>
+        </div>
+        
+        <!-- 进度条 -->
+        <div class="progress-section">
+            <div>学习进度</div>
+            <div class="progress-bar-container">
+                <div class="progress-bar"></div>
+            </div>
+            <div class="progress-text">总进度：0/0 任务已完成 (0%)</div>
+            <div style="text-align:center;margin-top:10px;">
+                <button class="btn btn-mark" onclick="resetProgress()">🔄 重置进度</button>
+            </div>
+        </div>
+        
+        <!-- 底部导航 -->
+        <div class="bottom-nav">
+            <button class="nav-btn active" data-page="plan">📅 20天计划</button>
+            <button class="nav-btn" data-page="resources">📚 资源库</button>
+        </div>
+        
+        <!-- 计划区 -->
+        <div id="plan-section">
+            <!-- 20天导航 -->
+            <div class="days-nav"></div>
+            
+            <!-- 天数内容 -->
+            <div id="days-container"></div>
+        </div>
+        
+        <!-- 资源库页面 -->
+        <div class="resources-page" id="resources-page"></div>
+        
+        <!-- 页脚 -->
+        <div style="text-align:center;padding:20px;color:rgba(255,255,255,0.7);font-size:0.9em;">
+            <p>💡 提示：所有练习需完成后点击"查看答案与解析"按钮解锁答案</p>
+            <p>📌 视频类任务无需答案，直接观看学习即可</p>
+            <p>🌐 所有资源链接均为真实可访问的免费资源</p>
+            <p style="margin-top:10px;">© 20天雅思冲6.5-7分计划系统 | 数据保存于本地浏览器</p>
+        </div>
+    </div>
+    
+    <script src="js/plan-data.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
