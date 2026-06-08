@@ -24,7 +24,7 @@ function renderHeader() {
     const mockTasks = PLAN_DATA.reduce((sum, day) => sum + day.tasks.filter(t => t.type === 'mock').length, 0);
     
     header.innerHTML = `
-        <h1>🎯 小羊20天雅思冲6.5-7分计划系统</h1>
+        <h1>🎯 20天雅思冲6.5-7分计划系统</h1>
         <div class="subtitle">专为5分基础设计 | 听力口语重点突破 | 每日任务分明</div>
         <div class="stats">
             <div class="stat-item">
